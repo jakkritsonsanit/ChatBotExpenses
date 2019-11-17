@@ -17,7 +17,13 @@
 
     // Sync object changes
     dbRefObject.on('value', snap => {
-      preObject.innerText = JSON.stringify(snap.val(), null, 3);
+      var amt = 0
+      snap.forEach(function(transaction) {
+        amt = amt + transaction.val().money;
+      });
+      preObject.innerText = amt;
     });
-
-}());
+    
+  }());
+// preObject.innerText = JSON.stringify(snap.val(), null, 3);
+// for each ตรง snap ได้เลย 
