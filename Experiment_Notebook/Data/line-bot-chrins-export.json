@@ -1,0 +1,3904 @@
+{
+  "bmi" : {
+    "l" : "คุณอ้วนแล้วนะ",
+    "m" : "คุณเริ่มจะอ้วนแล้วนะ",
+    "none" : "ไม่สามารถบอกได้",
+    "s" : "คุณหุ่นดีนะ",
+    "xl" : "คุณอ้วนเกินไปแล้วแหละ",
+    "xs" : "คุณผอมไปนะ"
+  },
+  "expenses" : {
+    "-LqReJpCP9lY2jAui0C8" : {
+      "date" : "2019/10/1",
+      "money" : 12,
+      "text" : "นมช็อคโกแลต"
+    },
+    "-LqReMSs0GuMqp-P-sMj" : {
+      "date" : "2019/10/1",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LqReMw0gwcFp1uB-W2J" : {
+      "date" : "2019/10/1",
+      "money" : 5,
+      "text" : "น้ำกระเจี๊ยบ"
+    },
+    "-LqReO0DIuuRn7C-KCA3" : {
+      "date" : "2019/10/1",
+      "money" : 35,
+      "text" : "ชานม"
+    },
+    "-LqRePWEGGa8jbdZF1Bn" : {
+      "date" : "2019/10/1",
+      "money" : 50,
+      "text" : "ข้าวเย็น"
+    },
+    "-LqReQZkkawDjDylh0f4" : {
+      "date" : "2019/10/1",
+      "money" : 631.3,
+      "text" : "อินเตอร์เน็ต"
+    },
+    "-LqUWW6Ir56yJ9unjS3D" : {
+      "date" : "2019/10/1",
+      "money" : 258.47,
+      "text" : "ค่าโทรศัพท์"
+    },
+    "-LqU_a8wcwahKILaYbV2" : {
+      "date" : "2019/10/2",
+      "money" : 130,
+      "text" : "ข้าวเย็น"
+    },
+    "-LqV4tzF-0dK3dcz4WPc" : {
+      "date" : "2019/10/2",
+      "money" : 40,
+      "text" : "ชานม"
+    },
+    "-LqVxzsfMncmrI5tPfS8" : {
+      "date" : "2019/10/2",
+      "money" : 30,
+      "text" : "หมาล่า"
+    },
+    "-LqW5eEEZOQj2GBwOzsn" : {
+      "date" : "2019/10/3",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-LqWH6pe5VkwaiDmg6da" : {
+      "date" : "2019/10/3",
+      "money" : 25,
+      "text" : "ไอติม"
+    },
+    "-LqWZtY9oGjyOH35R1kv" : {
+      "date" : "2019/10/3",
+      "money" : 150,
+      "text" : "ตัดผม"
+    },
+    "-LqW_DwfKBJzBdMqCKb6" : {
+      "date" : "2019/10/3",
+      "money" : 20,
+      "text" : "ซาลาเปา"
+    },
+    "-LqW_GDc6tFpi01J78Sn" : {
+      "date" : "2019/10/3",
+      "money" : 45,
+      "text" : "ไส้กรอก"
+    },
+    "-LqW__Q_aS8t_TljHhEv" : {
+      "date" : "2019/10/3",
+      "money" : 17,
+      "text" : "ดอยคำ"
+    },
+    "-LqZiG48rUsAozDgd8wJ" : {
+      "date" : "2019/10/3",
+      "money" : 135,
+      "text" : "ใบมีดโกน"
+    },
+    "-Lq__HzvTU2rDuG0iOZg" : {
+      "date" : "2019/10/3",
+      "money" : 5203,
+      "text" : "ค่าห้อง"
+    },
+    "-Lqd8QkPxq9Ii206lYt9" : {
+      "date" : "2019/10/4",
+      "money" : 45,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lqdj5oydu5qn4F7pGFJ" : {
+      "date" : "2019/10/4",
+      "money" : 145,
+      "text" : "ค่า Netflix"
+    },
+    "-LqdsJ9KoKuYylmBoNX5" : {
+      "date" : "2019/10/4",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LqdsKlz-8_QIs4MGED2" : {
+      "date" : "2019/10/4",
+      "money" : 30,
+      "text" : "ชานม"
+    },
+    "-Lqey_IPSB5CTiy4u1bf" : {
+      "date" : "2019/10/4",
+      "money" : 20,
+      "text" : "เก็บเงิน"
+    },
+    "-LqeyaMFdjmNGABGfBCX" : {
+      "date" : "2019/10/5",
+      "money" : 150,
+      "text" : "ราเมง"
+    },
+    "-Lqeyu2SWjE3YtGtkrO1" : {
+      "date" : "2019/10/5",
+      "money" : 25,
+      "text" : "นมเปรี้ยว"
+    },
+    "-LqfDPzZRUHAI2dU2rAs" : {
+      "date" : "2019/10/5",
+      "money" : 18,
+      "text" : "ขนมปัง"
+    },
+    "-LqfDR_Uiu22GZqyguyg" : {
+      "date" : "2019/10/5",
+      "money" : 10,
+      "text" : "ขนม"
+    },
+    "-LqfDT5e0iWfQlZiHSNG" : {
+      "date" : "2019/10/5",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LqfDU1EkfBiwfPMijtD" : {
+      "date" : "2019/10/5",
+      "money" : 17,
+      "text" : "ดอยคำ"
+    },
+    "-LqfDVbo8rPOlysWdRvI" : {
+      "date" : "2019/10/6",
+      "money" : 24,
+      "text" : "ค่าarl"
+    },
+    "-LqfDX_3fm2SLeuCBLLF" : {
+      "date" : "2019/10/6",
+      "money" : 14,
+      "text" : "ค่าmrt"
+    },
+    "-LqfD_Jvkb1PtKuafWXi" : {
+      "date" : "2019/10/6",
+      "money" : 25,
+      "text" : "ค่าmrt"
+    },
+    "-LqfDcZQmpaxyISk013G" : {
+      "date" : "2019/10/6",
+      "money" : 27,
+      "text" : "ค่าmrt"
+    },
+    "-LqfDdvB226yBe7ziV0X" : {
+      "date" : "2019/10/6",
+      "money" : 24,
+      "text" : "ค่าarl"
+    },
+    "-LqfDfjjj_B-IFlzd3dO" : {
+      "date" : "2019/10/6",
+      "money" : 300,
+      "text" : "ซื้อกางเกง"
+    },
+    "-LqfDhA_J19J1Go8Q9ue" : {
+      "date" : "2019/10/6",
+      "money" : 20,
+      "text" : "ถั่ว"
+    },
+    "-LqfDimRnxuQzC3kxYfC" : {
+      "date" : "2019/10/6",
+      "money" : 26,
+      "text" : "มาม่า"
+    },
+    "-LqfDkHBhCZztEEBWuxW" : {
+      "date" : "2019/10/6",
+      "money" : 15,
+      "text" : "ไอติม"
+    },
+    "-LqfDliSqYLC6xFRIiaV" : {
+      "date" : "2019/10/6",
+      "money" : 19,
+      "text" : "อิชิตัน"
+    },
+    "-LqfDngr5xVkaOQ6a9jr" : {
+      "date" : "2019/10/7",
+      "money" : 16,
+      "text" : "นม"
+    },
+    "-LqfDot7nyURwL80AflI" : {
+      "date" : "2019/10/7",
+      "money" : 35,
+      "text" : "คาปูชิโน่"
+    },
+    "-LqfDq96GyedtRUoJNQj" : {
+      "date" : "2019/10/8",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LqfDs5YCa-hX9qeNkTr" : {
+      "date" : "2019/10/8",
+      "money" : 150,
+      "text" : "ค่าviu"
+    },
+    "-LqfDu91EcQ7cHUpIvPB" : {
+      "date" : "2019/10/8",
+      "money" : 30,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LqfDvJfXn8WpMJLUAaY" : {
+      "date" : "2019/10/8",
+      "money" : 5,
+      "text" : "น้ำกระเจี๊ยบ"
+    },
+    "-LqfDx1XzxaBItcEPbaM" : {
+      "date" : "2019/10/8",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-LqfDy2Tmp7fyiIC8pSb" : {
+      "date" : "2019/10/8",
+      "money" : 20,
+      "text" : "ซาลาเปา"
+    },
+    "-LqfDzgdBB4Su3eHA8xO" : {
+      "date" : "2019/10/8",
+      "money" : 30,
+      "text" : "บัวลอย"
+    },
+    "-LqiIkGg1t6ssPMAWaIO" : {
+      "date" : "2019/10/9",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LqjSAMxly25_SEqvVdc" : {
+      "date" : "2019/10/9",
+      "money" : 30,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lqk3uUHd_DU0GAjy9NA" : {
+      "date" : "2019/10/9",
+      "money" : 40,
+      "text" : "ค่ารถ"
+    },
+    "-LqkQhUlK1H90xJYMy6w" : {
+      "date" : "2019/10/9",
+      "money" : 90,
+      "text" : "ชานม"
+    },
+    "-LqkaldVi800woTHGsuo" : {
+      "date" : "2019/10/9",
+      "money" : 80,
+      "text" : "ข้าวเย็น"
+    },
+    "-LqkuhVksjXcuBzmpB_m" : {
+      "date" : "2019/10/9",
+      "money" : 35,
+      "text" : "โกโก้"
+    },
+    "-LqkujBUktRsV3XX1OYZ" : {
+      "date" : "2019/10/9",
+      "money" : 140,
+      "text" : "ค่าหนัง"
+    },
+    "-LqpsAkj39zlqZVLLBIG" : {
+      "date" : "2019/10/10",
+      "money" : 300,
+      "text" : "เติมเกม"
+    },
+    "-Lqq20SXWGIg55lM_mjs" : {
+      "date" : "2019/10/10",
+      "money" : 100,
+      "text" : "ดูหนัง"
+    },
+    "-LqqmpF9rmG1Ojmhs4L3" : {
+      "date" : "2019/10/10",
+      "money" : 43,
+      "text" : "โอ้เด้ง"
+    },
+    "-LqqmqjWtMoWJJtr0ktn" : {
+      "date" : "2019/10/10",
+      "money" : 20,
+      "text" : "ป็อปคอน"
+    },
+    "-LqtJpEu22q2U4qsj5qn" : {
+      "date" : "2019/10/11",
+      "money" : 120,
+      "text" : "ค่าเหล้า"
+    },
+    "-LqtJz-S8JaZUU5vt4uQ" : {
+      "date" : "2019/10/11",
+      "money" : 50,
+      "text" : "ค่ากระเพรา"
+    },
+    "-LqtKWx9cPdXw3WLJfV_" : {
+      "date" : "2019/10/11",
+      "money" : 10,
+      "text" : "ถั่ว"
+    },
+    "-LqtgmaO89V_N_thdJxa" : {
+      "date" : "2019/10/11",
+      "money" : 52,
+      "text" : "ข้าวหอมมะลิ"
+    },
+    "-LqtoOPnY1oaGCe2BJh-" : {
+      "date" : "2019/10/11",
+      "money" : 27,
+      "text" : "หอยลายปุ้มปุ้ย"
+    },
+    "-LqtoQHpRpIoJsksosKZ" : {
+      "date" : "2019/10/11",
+      "money" : 50,
+      "text" : "พริกแกงหมู"
+    },
+    "-Lquk_MpdArfeyvJxRqt" : {
+      "date" : "2019/10/11",
+      "money" : 70,
+      "text" : "น้ำเปล่า"
+    },
+    "-LqukdT_v9dRjtW7OxNG" : {
+      "date" : "2019/10/11",
+      "money" : 24,
+      "text" : "นมเปรี้ยว"
+    },
+    "-Lr-A2PeMD8UW-1s4Xaq" : {
+      "date" : "2019/10/12",
+      "money" : 159,
+      "text" : "หมูกระทะ"
+    },
+    "-Lr-A3o2Az5K73uCcJ5b" : {
+      "date" : "2019/10/12",
+      "money" : 40,
+      "text" : "ชานม"
+    },
+    "-Lr2pPYqMlnTtTQi8de8" : {
+      "date" : "2019/10/13",
+      "money" : 45,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lr4-s2CQTpTL5Hpy8vG" : {
+      "date" : "2019/10/13",
+      "money" : 65,
+      "text" : "ชานม"
+    },
+    "-Lr4-zCs6-mEdyqF732A" : {
+      "date" : "2019/10/13",
+      "money" : 580,
+      "text" : "เสื้อ"
+    },
+    "-Lr4CQRz20tZDUL9vftV" : {
+      "date" : "2019/10/13",
+      "money" : 115,
+      "text" : "ราเมง"
+    },
+    "-Lr4CXwfEQrhyedg3EJ_" : {
+      "date" : "2019/10/13",
+      "money" : 89,
+      "text" : "กระเป๋าอิเกีย"
+    },
+    "-Lr4CfcWYH9oTpeuZQEi" : {
+      "date" : "2019/10/13",
+      "money" : 106,
+      "text" : "ค่าแท๊กซี่"
+    },
+    "-Lr7v73uVqGrcfoEjElm" : {
+      "date" : "2019/10/14",
+      "money" : 50,
+      "text" : "กระเพรา"
+    },
+    "-LrDDjOxxLW65W2-oT6A" : {
+      "date" : "2019/10/15",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LrE-mvmKDojzhT9M144" : {
+      "date" : "2019/10/15",
+      "money" : 40,
+      "text" : "โกโก้"
+    },
+    "-LrHOP44jf26BX9DzByK" : {
+      "date" : "2019/10/16",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LrIIWdxNiaoYh-ENBNV" : {
+      "date" : "2019/10/16",
+      "money" : 30,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LrIIXkLswnKXUGu2Ek1" : {
+      "date" : "2019/10/16",
+      "money" : 9,
+      "text" : "น้ำ"
+    },
+    "-LrII_rdfXlJeaz-7V8j" : {
+      "date" : "2019/10/16",
+      "money" : 330,
+      "text" : "ค่าเหล้า"
+    },
+    "-LrIId4IcrkYjosHpepx" : {
+      "date" : "2019/10/16",
+      "money" : 20,
+      "text" : "ลูกชิ้น"
+    },
+    "-LrJV2fxKuoeyCHMAVJJ" : {
+      "date" : "2019/10/16",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LrP37_JkZ7UtgGBKBl7" : {
+      "date" : "2019/10/17",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LrP39goAq7DVbOrGI5M" : {
+      "date" : "2019/10/17",
+      "money" : 15,
+      "text" : "น้ำ"
+    },
+    "-LrP3B3w0HCGcnd7UvXg" : {
+      "date" : "2019/10/17",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-LrP3Dk5N9wHbM8ZFtPJ" : {
+      "date" : "2019/10/17",
+      "money" : 20,
+      "text" : "มะละกอ"
+    },
+    "-LrSQmraVKHcxt5G6Rqe" : {
+      "date" : "2019/10/18",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LrTPSgmHAIdRUnI8l0q" : {
+      "date" : "2019/10/18",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LrV9-vf2QQheDpbioVS" : {
+      "date" : "2019/10/18",
+      "money" : 260,
+      "text" : "ค่าเหล้า"
+    },
+    "-LrVOaaSdRBletjJPhPz" : {
+      "date" : "2019/10/18",
+      "money" : 20,
+      "text" : "ลูกชิ้น"
+    },
+    "-LrYNMBgBv1E2P6IjOE2" : {
+      "date" : "2019/10/19",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LrYNPnekmytTx12EXwr" : {
+      "date" : "2019/10/19",
+      "money" : 450,
+      "text" : "นวด"
+    },
+    "-LrYNSLGMvzRJLCTtTaP" : {
+      "date" : "2019/10/19",
+      "money" : 35,
+      "text" : "ไอติม"
+    },
+    "-LrYNYNSobFQGiYIpZ9i" : {
+      "date" : "2019/10/19",
+      "money" : 58,
+      "text" : "ติ๋มซำ"
+    },
+    "-LrYv3CTTqjFUJXaQsM9" : {
+      "date" : "2019/10/19",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-LrbfWg3TCANHwjAzb0T" : {
+      "date" : "2019/10/20",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LrbfY51rsObnliqsoaB" : {
+      "date" : "2019/10/20",
+      "money" : 7,
+      "text" : "น้ำเปล่า"
+    },
+    "-Lrbf__Jmpt58m771y-I" : {
+      "date" : "2019/10/20",
+      "money" : 20,
+      "text" : "ธูปเทียน"
+    },
+    "-LrboCG04_eqGoZpzLwL" : {
+      "date" : "2019/10/20",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LrcXbGTs4rWz6ylw4JM" : {
+      "date" : "2019/10/20",
+      "money" : 20,
+      "text" : "ธูปเทียน"
+    },
+    "-LrcY3AALPrHoZ2p8pRS" : {
+      "date" : "2019/10/20",
+      "money" : 27,
+      "text" : "ขนม"
+    },
+    "-LrcYD-Sf3z-3OCUkWsO" : {
+      "date" : "2019/10/20",
+      "money" : 10,
+      "text" : "ไอติม"
+    },
+    "-LrdKF15DsWz2P0Cizpf" : {
+      "date" : "2019/10/20",
+      "money" : 180,
+      "text" : "ข้าวเย็น"
+    },
+    "-LreOlypnHxN4ILSg3Id" : {
+      "date" : "2019/10/20",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-Lrgzu7i_bR4yFNAXk3o" : {
+      "date" : "2019/10/21",
+      "money" : 16,
+      "text" : "นม"
+    },
+    "-LrhrIUSRPec1bnAcKd7" : {
+      "date" : "2019/10/21",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-LriRmdJ294Godi81GxG" : {
+      "date" : "2019/10/21",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-LriRoeUEJflcKrPDJA3" : {
+      "date" : "2019/10/21",
+      "money" : 40,
+      "text" : "โกโก้"
+    },
+    "-Lri_irIzc1CDLbey_hg" : {
+      "date" : "2019/10/21",
+      "money" : 89,
+      "text" : "ไอติม"
+    },
+    "-Lrls-QgtjaElJmyT8iB" : {
+      "date" : "2019/10/22",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-Lrls5Uim5i5wbua9ccj" : {
+      "date" : "2019/10/22",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lrls7dah9ZNR2rVOhFt" : {
+      "date" : "2019/10/22",
+      "money" : 5,
+      "text" : "กระเจี๊ยบ"
+    },
+    "-Lrm6R_cUgXZTApsSQwp" : {
+      "date" : "2019/10/22",
+      "money" : 70,
+      "text" : "ค่า spotify"
+    },
+    "-Lrn-wSN_d2vTOUt9bNh" : {
+      "date" : "2019/10/22",
+      "money" : 8,
+      "text" : "ค่าสองแถว"
+    },
+    "-Lrn56MEVDc0ZqUgiCPW" : {
+      "date" : "2019/10/22",
+      "money" : 12,
+      "text" : "ค่าแท๊กซี่"
+    },
+    "-LroP6P8rlbXKO1HOHiB" : {
+      "date" : "2019/10/22",
+      "money" : 15,
+      "text" : "ค่าแท๊กซี่"
+    },
+    "-LroP7PWD3u49kSeR0GV" : {
+      "date" : "2019/10/22",
+      "money" : 10,
+      "text" : "ค่า2แถว"
+    },
+    "-LroP8pVPgQzzBsXtXrX" : {
+      "date" : "2019/10/22",
+      "money" : 30,
+      "text" : "ก๋วยเตี๋ยว"
+    },
+    "-LrrUbi6oh6QUmXmddYj" : {
+      "date" : "2019/10/23",
+      "money" : 18,
+      "text" : "ปลากระป๋อง"
+    },
+    "-LrrUd9mhwXctIh4SP2D" : {
+      "date" : "2019/10/23",
+      "money" : 25,
+      "text" : "อิชิตัน"
+    },
+    "-LrrUfDKJY6Qo75ScYIr" : {
+      "date" : "2019/10/23",
+      "money" : 50,
+      "text" : "กับข้าว"
+    },
+    "-LrvaP_mOgy1YmX5Ksas" : {
+      "date" : "2019/10/24",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LrwN2QB2wQ6MrLp7y8g" : {
+      "date" : "2019/10/24",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LrwN4Ln2aauoGG9i1dA" : {
+      "date" : "2019/10/24",
+      "money" : 5,
+      "text" : "น้ำมะตูม"
+    },
+    "-LrwwLXWWTBWrruc1LGz" : {
+      "date" : "2019/10/24",
+      "money" : 20,
+      "text" : "ชาหวาน"
+    },
+    "-LrxTUQvkP_JfOcsa_tG" : {
+      "date" : "2019/10/24",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-LrxTWfk64vhzie40GB5" : {
+      "date" : "2019/10/24",
+      "money" : 10,
+      "text" : "น้ำเต้าหู้"
+    },
+    "-Ls0JNdP-QlTN8fQAeR7" : {
+      "date" : "2019/10/25",
+      "money" : 190,
+      "text" : "ซื้อเกม"
+    },
+    "-Ls0bWNHrEjihtM1mbHI" : {
+      "date" : "2019/10/25",
+      "money" : 16,
+      "text" : "นม"
+    },
+    "-Ls1RzBWqLJ8TLLG_oaS" : {
+      "date" : "2019/10/25",
+      "money" : 40,
+      "text" : "โอเด้ง"
+    },
+    "-Ls3H1N7f5kUrOu-0T72" : {
+      "date" : "2019/10/25",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-Ls4suzCh1jJTlmGcp7P" : {
+      "date" : "2019/10/26",
+      "money" : 23,
+      "text" : "ค่าBTS"
+    },
+    "-Ls4sw7bs0u61stkm-Jb" : {
+      "date" : "2019/10/26",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-Ls5Y_D16RLcouT1FKyR" : {
+      "date" : "2019/10/26",
+      "money" : 125,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Ls6Ow7cWlKdtvbUlABG" : {
+      "date" : "2019/10/26",
+      "money" : 45,
+      "text" : "ไอติม"
+    },
+    "-Ls7954StZtES7SY3s6u" : {
+      "date" : "2019/10/26",
+      "money" : 70,
+      "text" : "ข้าวเย็น"
+    },
+    "-Ls7EG87FJ5kcZ-FQG7G" : {
+      "date" : "2019/10/26",
+      "money" : 25,
+      "text" : "ค่าBTS"
+    },
+    "-Ls7EJmqUs7aJECU6tB-" : {
+      "date" : "2019/10/26",
+      "money" : 100,
+      "text" : "ค่าarl"
+    },
+    "-Ls7c_x7Uwt8eZ5TuOwZ" : {
+      "date" : "2019/10/26",
+      "money" : 150,
+      "text" : "ซื้อตุ้มหู"
+    },
+    "-Ls8ZjpVs5_Xsf7JlE01" : {
+      "date" : "2019/10/26",
+      "money" : 8,
+      "text" : "มาม่า"
+    },
+    "-Ls8ZkzJF7-zv-zDHpZJ" : {
+      "date" : "2019/10/26",
+      "money" : 16,
+      "text" : "ไข่ลวก"
+    },
+    "-Ls8Zmes8k3KilYJsRY4" : {
+      "date" : "2019/10/26",
+      "money" : 44,
+      "text" : "ทูน่า"
+    },
+    "-LsBbyM7XUjcc_vrlHcv" : {
+      "date" : "2019/10/27",
+      "money" : 65,
+      "text" : "ข้าวหอมมะลิ"
+    },
+    "-LsBbzOHi7wqehI9YMyp" : {
+      "date" : "2019/10/27",
+      "money" : 16,
+      "text" : "นม"
+    },
+    "-LsCqPjBcF2NMuuSb9rU" : {
+      "date" : "2019/10/27",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-LsDA17Gvy8lfMF1ioQF" : {
+      "date" : "2019/10/27",
+      "money" : 20,
+      "text" : "ลูกชิ้นปลา"
+    },
+    "-LsGPS0AEY2Vwordtwkh" : {
+      "date" : "2019/10/28",
+      "money" : 16,
+      "text" : "นม"
+    },
+    "-LsGPTRcBL9DcvzAK0EW" : {
+      "date" : "2019/10/28",
+      "money" : 12,
+      "text" : "ขนมปัง"
+    },
+    "-LsIHYqPmPTiCnDAlugu" : {
+      "date" : "2019/10/28",
+      "money" : 50,
+      "text" : "ข้าวเย็น"
+    },
+    "-LsKLlPMWWySxJ_0DlZx" : {
+      "date" : "2019/10/29",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LsKxeAzD26iVqG7LJiI" : {
+      "date" : "2019/10/29",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LsKxiW8sQ_-cgfPO3_P" : {
+      "date" : "2019/10/29",
+      "money" : 5,
+      "text" : "น้ำกระเจี๊ยบ"
+    },
+    "-LsMZXRhJmuYZAdwsDY2" : {
+      "date" : "2019/10/29",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LsMZYIDoA1xqUGnsCAM" : {
+      "date" : "2019/10/29",
+      "money" : 20,
+      "text" : "ซาลาเปา"
+    },
+    "-LsS8nYFReG3WLOu5wz9" : {
+      "date" : "2019/10/30",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LsS8oP_9Z_miRP6FunK" : {
+      "date" : "2019/10/30",
+      "money" : 200,
+      "text" : "ข้าวเย็น"
+    },
+    "-LsS8psj9LwjynQ4XHve" : {
+      "date" : "2019/10/30",
+      "money" : 14,
+      "text" : "น้ำ"
+    },
+    "-LsVcxvqsl_vQMtIIoXu" : {
+      "date" : "2019/10/31",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LsVd0PQEjajMRod1fnu" : {
+      "date" : "2019/10/31",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LsWYVio7nOlc_rRqUQZ" : {
+      "date" : "2019/10/31",
+      "money" : 25,
+      "text" : "ชาแอปเปิ้ล"
+    },
+    "-LsWYXHByq--CHaDw2iy" : {
+      "date" : "2019/10/31",
+      "money" : 30,
+      "text" : "ข้าวเย็น"
+    },
+    "-LsXwk8KO7FSWTjk-TB-" : {
+      "date" : "2019/10/31",
+      "money" : 145,
+      "text" : "ค่า Netflix"
+    },
+    "-LsXwnB5YYOFk6SiSe3u" : {
+      "date" : "2019/10/31",
+      "money" : 50,
+      "text" : "ยำ"
+    },
+    "-LsZvBrHogLmcp1ihckg" : {
+      "date" : "2019/11/1",
+      "money" : 35,
+      "text" : "ค่ารถตู้"
+    },
+    "-Ls_pg8NcMALDf2omzYo" : {
+      "date" : "2019/11/1",
+      "money" : 79,
+      "text" : "ไอติม"
+    },
+    "-LsaSB8fVAFt5S5zmXfN" : {
+      "date" : "2019/11/1",
+      "money" : 200,
+      "text" : "ข้าวเย็น"
+    },
+    "-LsaWRdR8lTFechervYH" : {
+      "date" : "2019/11/1",
+      "money" : 77,
+      "text" : "ค่า bts"
+    },
+    "-LsamqDrGvPm_fhLCFEq" : {
+      "date" : "2019/11/1",
+      "money" : 26,
+      "text" : "ค่า bts"
+    },
+    "-LsatKKuWZhI6kULwU_T" : {
+      "date" : "2019/11/1",
+      "money" : 35,
+      "text" : "ชา"
+    },
+    "-Lsf6MHAkglGpEGF7Drj" : {
+      "date" : "2019/11/2",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LsfWtH1MTVZHfjgMiG5" : {
+      "date" : "2019/11/2",
+      "money" : 20,
+      "text" : "ค่ารถตู้"
+    },
+    "-LslAl8W-IE6WW5KRGDN" : {
+      "date" : "2019/11/3",
+      "money" : 85,
+      "text" : "ข้าวเย็น"
+    },
+    "-LslAlhZ_-A7EFbQGPNd" : {
+      "date" : "2019/11/3",
+      "money" : 50,
+      "text" : "ชานม"
+    },
+    "-LspeY2IN4Ou7yucC7xT" : {
+      "date" : "2019/11/4",
+      "money" : 20,
+      "text" : "ไส้กรอก"
+    },
+    "-Lspj3iHekTYih2JjPK7" : {
+      "date" : "2019/11/4",
+      "money" : 50,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lspj5DUr8Ptnydq3vSd" : {
+      "date" : "2019/11/4",
+      "money" : 40,
+      "text" : "ชานม"
+    },
+    "-LsrD8unyMsRwemDClGW" : {
+      "date" : "2019/11/4",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LsrD9sZCpcWty-58Xv3" : {
+      "date" : "2019/11/4",
+      "money" : 30,
+      "text" : "หมาล่า"
+    },
+    "-Lsu01QpMdlxyQuYoDvK" : {
+      "date" : "2019/11/5",
+      "money" : 1262,
+      "text" : "ค่าอินเทอร์เน็ต"
+    },
+    "-LsuKKmIEoOuZirmVfHQ" : {
+      "date" : "2019/11/5",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-LsuPM5b1DvrkP9TiV4A" : {
+      "date" : "2019/11/5",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LsvJ9a-hknQPnr8e41w" : {
+      "date" : "2019/11/5",
+      "money" : 5200,
+      "text" : "ค่าห้อง"
+    },
+    "-Lsv_4ppecoQ3hkumgg1" : {
+      "date" : "2019/11/5",
+      "money" : 35,
+      "text" : "หมาล่า"
+    },
+    "-LsyfXQTAL9oVvPYCNN2" : {
+      "date" : "2019/11/6",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LszJsa3GspdWOnhILSg" : {
+      "date" : "2019/11/6",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lt-oJ7QiS3TuGgwM7Mq" : {
+      "date" : "2019/11/6",
+      "money" : 280,
+      "text" : "ชาบู"
+    },
+    "-Lt2cA8BqLzbG2FmE1Ie" : {
+      "date" : "2019/11/7",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-Lt3MXgrYByRPFb-kVdF" : {
+      "date" : "2019/11/7",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lt3VG6WaUEl4aIw82W2" : {
+      "date" : "2019/11/7",
+      "money" : 247,
+      "text" : "ค่าโทรศัพท์"
+    },
+    "-Lt3VIq4xkzikqfkBArS" : {
+      "date" : "2019/11/7",
+      "money" : 5,
+      "text" : "น้ำกระเจี๊ยบ"
+    },
+    "-Lt3VKh5al-S2ZWYPP2i" : {
+      "date" : "2019/11/7",
+      "money" : 30,
+      "text" : "โกโก้"
+    },
+    "-Lt4fhDdg1KZPgteqbNW" : {
+      "date" : "2019/11/7",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lt8XbNd8Epap3Sw9ni6" : {
+      "date" : "2019/11/8",
+      "money" : 70,
+      "text" : "โกโก้"
+    },
+    "-Lt8Z3yCTlt1rioLnOfJ" : {
+      "date" : "2019/11/8",
+      "money" : 26,
+      "text" : "ค่า BTS"
+    },
+    "-Lt9VnvlL10aw1USBXnH" : {
+      "date" : "2019/11/8",
+      "money" : 100,
+      "text" : "ค่าarl"
+    },
+    "-Lt9dvcTUte8dUDOnvzf" : {
+      "date" : "2019/11/8",
+      "money" : 23,
+      "text" : "ค่าbts"
+    },
+    "-LtA-gg4gaCuCAXlZe4m" : {
+      "date" : "2019/11/8",
+      "money" : 92,
+      "text" : "ไอติม"
+    },
+    "-LtAQRuHj4qubGf5YLR3" : {
+      "date" : "2019/11/8",
+      "money" : 23,
+      "text" : "ค่าbts"
+    },
+    "-LtAX-7s3VTS0lM2CWb0" : {
+      "date" : "2019/11/8",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-LtAhdfWMfZKUce1YPVr" : {
+      "date" : "2019/11/8",
+      "money" : 40,
+      "text" : "ยำ"
+    },
+    "-LtFGKWllUjBiY4w_xOZ" : {
+      "date" : "2019/11/9",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LtFGLj9CiVFnz5MRY5E" : {
+      "date" : "2019/11/9",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-LtFGNo0oJAd8E7P5E7o" : {
+      "date" : "2019/11/9",
+      "money" : 33,
+      "text" : "ขนม"
+    },
+    "-LtFI7vBPOEw89DuUWbV" : {
+      "date" : "2019/11/9",
+      "money" : 20,
+      "text" : "มะละกอ"
+    },
+    "-LtIqmJih60CNAoGZYSP" : {
+      "date" : "2019/11/10",
+      "money" : 50,
+      "text" : "ซักผ้า"
+    },
+    "-LtKBDoDgH4dSPBkxMHC" : {
+      "date" : "2019/11/10",
+      "money" : 75,
+      "text" : "ข้าวเย็น"
+    },
+    "-LtKBErGU_Y3WRxel4Dn" : {
+      "date" : "2019/11/10",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-LtKBHdaUFEPFy7hzyJr" : {
+      "date" : "2019/11/10",
+      "money" : 45,
+      "text" : "หมาล่า"
+    },
+    "-LtOsxmlq6PbgR2ODwBQ" : {
+      "date" : "2019/11/11",
+      "money" : 30,
+      "text" : "เสาวรส"
+    },
+    "-LtOsz2Axn2VA5YWNh0_" : {
+      "date" : "2019/11/11",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-LtOzVq6XUAJDXdsyc2e" : {
+      "date" : "2019/11/11",
+      "money" : 20,
+      "text" : "เนื้อย่าง"
+    },
+    "-LtOzXDXpGADdZwUQaRJ" : {
+      "date" : "2019/11/11",
+      "money" : 10,
+      "text" : "น้ำเต้าหู้"
+    },
+    "-LtTDnwroTmWMuii8qGn" : {
+      "date" : "2019/11/12",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LtTDppcRXrRzZ7DJcOn" : {
+      "date" : "2019/11/12",
+      "money" : 5,
+      "text" : "น้ำ"
+    },
+    "-LtTzZifo3s44JoyWUxy" : {
+      "date" : "2019/11/12",
+      "money" : 8,
+      "text" : "ไอติม"
+    },
+    "-LtUTOZU7rhG-lXmq-Yw" : {
+      "date" : "2019/11/12",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-LtVo3k8IOY24Cc3VRIR" : {
+      "date" : "2019/11/12",
+      "money" : 300,
+      "text" : "เติมเกม"
+    },
+    "-LtYfNeD-5kit2Lx-aoN" : {
+      "date" : "2019/11/13",
+      "money" : 300,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LtYfUKA5RgPsxcgC3j9" : {
+      "date" : "2019/11/13",
+      "money" : 30,
+      "text" : "ไอติม"
+    },
+    "-Lt_e0b7gujSiMtzgLwl" : {
+      "date" : "2019/11/13",
+      "money" : 25,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lte3oTWF5nrIsprg3cj" : {
+      "date" : "2019/11/14",
+      "money" : 55,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lte3pLXorF3fsYUR5i6" : {
+      "date" : "2019/11/14",
+      "money" : 20,
+      "text" : "ขนม"
+    },
+    "-Lte3qlNHORtcqvNUn7c" : {
+      "date" : "2019/11/14",
+      "money" : 25,
+      "text" : "ไอติม"
+    },
+    "-Lte3rzpjb6_mYWN6fqW" : {
+      "date" : "2019/11/14",
+      "money" : 20,
+      "text" : "ซาลาเปา"
+    },
+    "-LtiqkudsIgOAPUfBEfH" : {
+      "date" : "2019/11/15",
+      "money" : 55,
+      "text" : "ข้าวเย็น"
+    },
+    "-LtiqmQ8UkBzLWeUDq3g" : {
+      "date" : "2019/11/15",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-LtmKpWUAuyYZuJgqP8b" : {
+      "date" : "2019/11/16",
+      "money" : 63,
+      "text" : "ขนม"
+    },
+    "-Ltmw6JDnpCdtKZkqdhH" : {
+      "date" : "2019/11/16",
+      "money" : 30,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lto7cThBVMIiNgbxxv8" : {
+      "date" : "2019/11/16",
+      "money" : 18,
+      "text" : "ขนม"
+    },
+    "-Lto7gOIVHz33G6houqJ" : {
+      "date" : "2019/11/16",
+      "money" : 74,
+      "text" : "ข้าวเย็น"
+    },
+    "-LtoE278AjoBY4Y31P0d" : {
+      "date" : "2019/11/16",
+      "money" : 99,
+      "text" : "เหล้า"
+    },
+    "-LtoE6NZrh7Eg8hpQEvv" : {
+      "date" : "2019/11/16",
+      "money" : 124,
+      "text" : "ครีมกันแดด"
+    },
+    "-LtpphxvsZkCytzLjdAY" : {
+      "date" : "2019/11/16",
+      "money" : 210,
+      "text" : "เหล้า"
+    },
+    "-LtrlozACZ17kZGycSLp" : {
+      "date" : "2019/11/17",
+      "money" : 30,
+      "text" : "ลูกชิ้น"
+    },
+    "-Lts7ra9PGxjG_Qu8BSX" : {
+      "date" : "2019/11/17",
+      "money" : 68,
+      "text" : "กับข้าว"
+    },
+    "-Lts7sRsa7eUC8DGAQTv" : {
+      "date" : "2019/11/17",
+      "money" : 25,
+      "text" : "น้ำ"
+    },
+    "-LtyBcgo29aoAtbH8wLc" : {
+      "date" : "2019/11/18",
+      "money" : 15,
+      "text" : "น้ำ"
+    },
+    "-LtyBel-IDmWQARNx3EL" : {
+      "date" : "2019/11/18",
+      "money" : 30,
+      "text" : "มะนาวโซดา"
+    },
+    "-LtyMtXmpARbNhJyYMkH" : {
+      "date" : "2019/11/18",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lu1gOb1TdlwgOG2E9j5" : {
+      "date" : "2019/11/19",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-Lu1gP_9euWA3iSj-2SS" : {
+      "date" : "2019/11/19",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lu1gUvcGxyx6bWUf5c3" : {
+      "date" : "2019/11/19",
+      "money" : 5,
+      "text" : "กระเจี๊ยบ"
+    },
+    "-Lu1xv5JgzN7bf0oNQyu" : {
+      "date" : "2019/11/19",
+      "money" : 16,
+      "text" : "นมเปรี้ยว"
+    },
+    "-Lu2vUdMe9_CSMa1gt97" : {
+      "date" : "2019/11/19",
+      "money" : 192,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lu3Mb7ZbqvPChW0Qi8a" : {
+      "date" : "2019/11/19",
+      "money" : 20,
+      "text" : "ซักผ้า"
+    },
+    "-Lu72V-Kuk46zB7nCwqW" : {
+      "date" : "2019/11/20",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-Lu72WIxLilqN0wZnH9b" : {
+      "date" : "2019/11/20",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lu72Z2s8MxyYhGBlqJJ" : {
+      "date" : "2019/11/20",
+      "money" : 5,
+      "text" : "กระเจี๊ยบ"
+    },
+    "-Lu72_NTbgfLe5elGhiW" : {
+      "date" : "2019/11/20",
+      "money" : 15,
+      "text" : "น้ำ"
+    },
+    "-Lu72gy9Vq2P0nxBlgDc" : {
+      "date" : "2019/11/20",
+      "money" : 12,
+      "text" : "ช็อกโกแลต"
+    },
+    "-Lu7YKMZgUJHIh4NGL7c" : {
+      "date" : "2019/11/20",
+      "money" : 100,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lu7jrxS2whDn32TVQvh" : {
+      "date" : "2019/11/20",
+      "money" : 159,
+      "text" : "ซื้อแชมพู"
+    },
+    "-Lu7juOmcyvWTv64dWsa" : {
+      "date" : "2019/11/20",
+      "money" : 159,
+      "text" : "ซื้อครีมนวด"
+    },
+    "-LuApiIcNcIn_NzVgDNR" : {
+      "date" : "2019/11/21",
+      "money" : 20,
+      "text" : "ซักผ้า"
+    },
+    "-LuBTBKdoFRp4zSstMzv" : {
+      "date" : "2019/11/21",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LuBTCYYl5q6i6mXTDZA" : {
+      "date" : "2019/11/21",
+      "money" : 5,
+      "text" : "กระเจี๊ยบ"
+    },
+    "-LuBWVa0qVKrv7xPqnu5" : {
+      "date" : "2019/11/21",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LuCnq79VKMxjXjM29TY" : {
+      "date" : "2019/11/21",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-LuCnqZS5rG0Ypnx4fKM" : {
+      "date" : "2019/11/21",
+      "money" : 20,
+      "text" : "ขนม"
+    },
+    "-LuCvk9W7Wr9rv1Ee_Zv" : {
+      "date" : "2019/11/21",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-LuGf9MlUMITdPoyAQMd" : {
+      "date" : "2019/11/22",
+      "money" : 106,
+      "text" : "ค่า viu"
+    },
+    "-LuHVWGr735O1pk2a-_9" : {
+      "date" : "2019/11/22",
+      "money" : 70,
+      "text" : "ข้าวเย็น"
+    },
+    "-LuHm80Bcn_e4f2Z84VK" : {
+      "date" : "2019/11/22",
+      "money" : 40,
+      "text" : "โกโก้"
+    },
+    "-LuHm9f8DvMpYxmdPtkE" : {
+      "date" : "2019/11/22",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LuND3PbdkPncPsrCe7G" : {
+      "date" : "2019/11/23",
+      "money" : 80,
+      "text" : "เติมน้ำมัน"
+    },
+    "-LuNll4Oz0cWNQCLjByG" : {
+      "date" : "2019/11/23",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-LuOTPCFoyiuXL_-iQoK" : {
+      "date" : "2019/11/23",
+      "money" : 25,
+      "text" : "ลูกชิ้น"
+    },
+    "-LuOTRRUnVNpOoN8BygA" : {
+      "date" : "2019/11/23",
+      "money" : 70,
+      "text" : "ขนม"
+    },
+    "-LuXADAgOmblvjdh3dEr" : {
+      "date" : "2019/11/25",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LuXAF3AzOs5guwhZVBe" : {
+      "date" : "2019/11/25",
+      "money" : 80,
+      "text" : "ข้าวเย็น"
+    },
+    "-LuamDzB_QD5ehTJwAUs" : {
+      "date" : "2019/11/26",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LuamFTpxeg9mAvk6ceT" : {
+      "date" : "2019/11/26",
+      "money" : 12,
+      "text" : "น้ำ"
+    },
+    "-LuctZ5ZjGFrFAJh-9Pc" : {
+      "date" : "2019/11/26",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-Luct_DP1owqorpxE8Cf" : {
+      "date" : "2019/11/26",
+      "money" : 40,
+      "text" : "ขนม"
+    },
+    "-LudCDFoazlwB881_irQ" : {
+      "date" : "2019/11/26",
+      "money" : 40,
+      "text" : "ยำ"
+    },
+    "-LufWG-MCog4PquWAJPb" : {
+      "date" : "2019/11/27",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LufWHEK10OeCFrffuL4" : {
+      "date" : "2019/11/27",
+      "money" : 9,
+      "text" : "น้ำ"
+    },
+    "-LuhD1MODdxCrV8kG4j-" : {
+      "date" : "2019/11/27",
+      "money" : 51,
+      "text" : "ขนม"
+    },
+    "-LuhD6MS7pBZkri7CHyv" : {
+      "date" : "2019/11/27",
+      "money" : 80,
+      "text" : "ข้าวเย็น"
+    },
+    "-LuhEm1T_OMcKZem5JMP" : {
+      "date" : "2019/11/27",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-LuhGKz-_OzQM_y1wFjv" : {
+      "date" : "2019/11/27",
+      "money" : 20,
+      "text" : "นม"
+    },
+    "-LukYFoASmW5WzQGrr2F" : {
+      "date" : "2019/11/28",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LukYGqdIV-o697m2Bm-" : {
+      "date" : "2019/11/28",
+      "money" : 5,
+      "text" : "น้ำ"
+    },
+    "-LukYHSodcBquwOzSgsJ" : {
+      "date" : "2019/11/28",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LukuUx8_S4XmIm_ioN6" : {
+      "date" : "2019/11/28",
+      "money" : 20,
+      "text" : "ชา"
+    },
+    "-Lult53F7zUyWygmZSME" : {
+      "date" : "2019/11/28",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lult6_LXb5uIxtXYHqR" : {
+      "date" : "2019/11/28",
+      "money" : 25,
+      "text" : "ซื้อที่คาดผม"
+    },
+    "-LultEJVDm5V7bOGd2aK" : {
+      "date" : "2019/11/28",
+      "money" : 27,
+      "text" : "ขนม"
+    },
+    "-LumgNT8PM61wW3LsB_V" : {
+      "date" : "2019/11/28",
+      "money" : 20,
+      "text" : "ขนม"
+    },
+    "-LupjyrJX-DPgpCtt9wB" : {
+      "date" : "2019/11/29",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lupk-Q8L9Uf5U5jFMXw" : {
+      "date" : "2019/11/29",
+      "money" : 10,
+      "text" : "น้ำ"
+    },
+    "-Lupk1MTbYEGYTT5nTvg" : {
+      "date" : "2019/11/29",
+      "money" : 3000,
+      "text" : "บัตรคอน"
+    },
+    "-LurBYV6AttuD27RQD45" : {
+      "date" : "2019/11/29",
+      "money" : 22,
+      "text" : "ขนม"
+    },
+    "-LusQHTsReI68j2qkwXz" : {
+      "date" : "2019/11/29",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LusQIjXYW76lE_kPbJt" : {
+      "date" : "2019/11/29",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-LuvG7sOV3mOTbcCpFR1" : {
+      "date" : "2019/11/30",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LuwLLqmYfUDHvcHPIOv" : {
+      "date" : "2019/11/30",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LuwLNOj3PlRk-Cj9RwP" : {
+      "date" : "2019/11/30",
+      "money" : 20,
+      "text" : "น้ำ"
+    },
+    "-LuwLPLrwZzmH4qtzFzr" : {
+      "date" : "2019/11/30",
+      "money" : 30,
+      "text" : "เปลี่ยนซิปกางเกง"
+    },
+    "-LuxL3l10QpQQv6-7ceT" : {
+      "date" : "2019/11/30",
+      "money" : 16,
+      "text" : "น้ำ"
+    },
+    "-Lv-lAfRJEP6CjlYtgd5" : {
+      "date" : "2019/12/1",
+      "money" : 190,
+      "text" : "ซื้อเกม"
+    },
+    "-Lv-mqZxEuGuZT__p6fi" : {
+      "date" : "2019/12/1",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lv-mtW9h0PVo6liK5mV" : {
+      "date" : "2019/12/1",
+      "money" : 45,
+      "text" : "น้ำ"
+    },
+    "-Lv0Lb7TXkAG8HAuAbN1" : {
+      "date" : "2019/12/1",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lv1MuHFXHqbCKS-DY8v" : {
+      "date" : "2019/12/1",
+      "money" : 37,
+      "text" : "ขนม"
+    },
+    "-Lv1SxvzBgAxfZfLrZeq" : {
+      "date" : "2019/12/1",
+      "money" : 20,
+      "text" : "ขนม"
+    },
+    "-Lv3w8pi9RlPzuEJsSF6" : {
+      "date" : "2019/12/2",
+      "money" : 320,
+      "text" : "ซื้อเกม"
+    },
+    "-Lv4v3uKbQQLh5EkOfwR" : {
+      "date" : "2019/12/2",
+      "money" : 10,
+      "text" : "น้ำ"
+    },
+    "-Lv4v5BQozjpxmGWS8PQ" : {
+      "date" : "2019/12/2",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lv5Tb2VpesbVL9_Bgep" : {
+      "date" : "2019/12/2",
+      "money" : 165,
+      "text" : "ค่าnetflix"
+    },
+    "-Lv5TdMFqgRHF_huMAOA" : {
+      "date" : "2019/12/2",
+      "money" : 75,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lv68eGANA5x33eOjh_a" : {
+      "date" : "2019/12/2",
+      "money" : 27,
+      "text" : "ขนม"
+    },
+    "-Lv68ru5j4sguObr5gxG" : {
+      "date" : "2019/12/2",
+      "money" : 5000,
+      "text" : "ค่าห้อง"
+    },
+    "-Lv6siDCcI5W1WqzwlTw" : {
+      "date" : "2019/12/2",
+      "money" : 30,
+      "text" : "ขนม"
+    },
+    "-LvAZpShSRcsgg-xZ5Gx" : {
+      "date" : "2019/12/3",
+      "money" : 45,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LvAZtQxKaG0YTgK0RVu" : {
+      "date" : "2019/12/3",
+      "money" : 25,
+      "text" : "ขนม"
+    },
+    "-LvA_559BZjjOQOF8UtN" : {
+      "date" : "2019/12/3",
+      "money" : 50,
+      "text" : "ข้าวเย็น"
+    },
+    "-LvBdPzQVLnXybzDueAn" : {
+      "date" : "2019/12/3",
+      "money" : 20,
+      "text" : "ขนม"
+    },
+    "-LvBvrWLwdEbR961Bdzq" : {
+      "date" : "2019/12/3",
+      "money" : 25,
+      "text" : "ข้าวเย็น"
+    },
+    "-LvFv0pOQnUDwZWwFGO7" : {
+      "date" : "2019/12/4",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LvFv1bsZljLCQ2TxmGV" : {
+      "date" : "2019/12/4",
+      "money" : 5,
+      "text" : "น้ำ"
+    },
+    "-LvFv2YEbWVIlHCJbeNR" : {
+      "date" : "2019/12/4",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-LvFv3cYXeAo4e2zNsbL" : {
+      "date" : "2019/12/4",
+      "money" : 20,
+      "text" : "น้ำ"
+    },
+    "-LvJOSLFv5TDWFb1gKDS" : {
+      "date" : "2019/12/5",
+      "money" : 40,
+      "text" : "ข้าวเช้า"
+    },
+    "-LvKoBJuTOWHI8a3d_mC" : {
+      "date" : "2019/12/5",
+      "money" : 80,
+      "text" : "ข้าวเย็น"
+    },
+    "-LvPxF6_Wc5STJfCWh1Y" : {
+      "date" : "2019/12/6",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LvPxFU37zhMOxabe-MS" : {
+      "date" : "2019/12/6",
+      "money" : 5,
+      "text" : "น้ำ"
+    },
+    "-LvRE4YfmRrIB2FM6dx0" : {
+      "date" : "2019/12/6",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-LvRE5gWbNk_ryz00soF" : {
+      "date" : "2019/12/6",
+      "money" : 45,
+      "text" : "ยำมะม่วง"
+    },
+    "-LvRE9ZO7sOrRB93ExwR" : {
+      "date" : "2019/12/6",
+      "money" : 50,
+      "text" : "ข้าวเย็น"
+    },
+    "-LvRYJlX46SnIklMzSdC" : {
+      "date" : "2019/12/6",
+      "money" : 1030,
+      "text" : "ค่าที่พักหัวหิน"
+    },
+    "-LvULFxb21VkhJuK-zog" : {
+      "date" : "2019/12/7",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LvULGpOpg8bfvq8sEL3" : {
+      "date" : "2019/12/7",
+      "money" : 42,
+      "text" : "ขนม"
+    },
+    "-LvVEkrcbylV9r2PQbA1" : {
+      "date" : "2019/12/7",
+      "money" : 40,
+      "text" : "ซูซิ"
+    },
+    "-LvVFMRQHmpEvHgGb84D" : {
+      "date" : "2019/12/7",
+      "money" : 86,
+      "text" : "กาแฟ"
+    },
+    "-LvVFrLaTTxEuFdCJvov" : {
+      "date" : "2019/12/7",
+      "money" : 20,
+      "text" : "ชานม"
+    },
+    "-LvYiSp4fEIgfsafFiwi" : {
+      "date" : "2019/12/8",
+      "money" : 112,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LvZaTTFkdB8fg6KZg_K" : {
+      "date" : "2019/12/8",
+      "money" : 84,
+      "text" : "เบอร์เกอร์"
+    },
+    "-Lv_QOkEV550ubZjBc7Q" : {
+      "date" : "2019/12/8",
+      "money" : 100,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lv_QPf-TvHT_ch6moKQ" : {
+      "date" : "2019/12/8",
+      "money" : 30,
+      "text" : "ชา"
+    },
+    "-LveluV-jmACzyq5WN4a" : {
+      "date" : "2019/12/9",
+      "money" : 45,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LvelvC7exlAGSWj1wLz" : {
+      "date" : "2019/12/9",
+      "money" : 22,
+      "text" : "น้ำ"
+    },
+    "-LvemA5-QczEZauoIyoP" : {
+      "date" : "2019/12/9",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-LvemBl9A3PYO4hNIcQ4" : {
+      "date" : "2019/12/9",
+      "money" : 15,
+      "text" : "ซูซิ"
+    },
+    "-LvfeaBcpLt8lT8hap-x" : {
+      "date" : "2019/12/9",
+      "money" : 92,
+      "text" : "ขนม"
+    },
+    "-Lvl4LwI7_3mCZoAlzAQ" : {
+      "date" : "2019/12/10",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lvl4MjX3rhQWwSIzRxM" : {
+      "date" : "2019/12/10",
+      "money" : 22,
+      "text" : "น้ำ"
+    },
+    "-Lvl4QTohBGHiZpOsJpQ" : {
+      "date" : "2019/12/10",
+      "money" : 65,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lvl4S0fhwP-Z3o1tcd9" : {
+      "date" : "2019/12/10",
+      "money" : 36,
+      "text" : "ขนม"
+    },
+    "-Lvni44EPVXIjjRumo32" : {
+      "date" : "2019/12/11",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-Lvni4pBnmki70hZzbFw" : {
+      "date" : "2019/12/11",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lvni5FdvCH-dSZNSEhn" : {
+      "date" : "2019/12/11",
+      "money" : 5,
+      "text" : "น้ำ"
+    },
+    "-Lvni8UExuOXor52ZCWr" : {
+      "date" : "2019/12/11",
+      "money" : 100,
+      "text" : "ค่านิยาย"
+    },
+    "-LvoOUXZMXKdcqmlhT29" : {
+      "date" : "2019/12/11",
+      "money" : 30,
+      "text" : "ชา"
+    },
+    "-Lvqyw4c8DmUCIKWiaKF" : {
+      "date" : "2019/12/11",
+      "money" : 60,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lvqz2et8fJgJ9fEat6y" : {
+      "date" : "2019/12/11",
+      "money" : 9,
+      "text" : "น้ำ"
+    },
+    "-Lvqz7agGvDLHgLiYzwp" : {
+      "date" : "2019/12/11",
+      "money" : 35,
+      "text" : "ซูชิ"
+    },
+    "-LvuIl8MSK22kg_ybB5Z" : {
+      "date" : "2019/12/12",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LvuIxdwAox5s8NEqJA1" : {
+      "date" : "2019/12/12",
+      "money" : 75,
+      "text" : "ข้าวเย็น"
+    },
+    "-LvuJ1-LOgBFFlc-qAjD" : {
+      "date" : "2019/12/12",
+      "money" : 65,
+      "text" : "หมูยอ"
+    },
+    "-LvuzvHZHosns0q6Fgjx" : {
+      "date" : "2019/12/12",
+      "money" : 50,
+      "text" : "ขนม"
+    },
+    "-Lvy2YzlsFDBuTGQHAJ7" : {
+      "date" : "2019/12/13",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-Lvy2bsuwGtbT95xXAcn" : {
+      "date" : "2019/12/13",
+      "money" : 72.5,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lw02FNkiOqL_cWuddy-" : {
+      "date" : "2019/12/13",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-Lw02KSGH3yd7GGhp8Is" : {
+      "date" : "2019/12/13",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lw02NcGkIlbY_87y0Q8" : {
+      "date" : "2019/12/13",
+      "money" : 150,
+      "text" : "ซื้อไขขวง"
+    },
+    "-Lw02OSFi--z5xscBrhE" : {
+      "date" : "2019/12/13",
+      "money" : 12,
+      "text" : "มาม่า"
+    },
+    "-Lw2RwJr2p4cwtkViuVN" : {
+      "date" : "2019/12/14",
+      "money" : 3000,
+      "text" : "ซื้อคอม"
+    },
+    "-Lw2m_6DfjZsNN0bPAum" : {
+      "date" : "2019/12/14",
+      "money" : 35,
+      "text" : "หมูปิ้ง"
+    },
+    "-Lw2m_A81sEgvvE9j3GB" : {
+      "date" : "2019/12/14",
+      "money" : 30,
+      "text" : "ชา"
+    },
+    "-Lw3TgVyh1XaHPX3ZSqV" : {
+      "date" : "2019/12/14",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lw3ThULxSYilxF-QV2N" : {
+      "date" : "2019/12/14",
+      "money" : 60,
+      "text" : "ขนม"
+    },
+    "-Lw9tM-_hVNp6wbvaQqV" : {
+      "date" : "2019/12/15",
+      "money" : 96,
+      "text" : "ขนม"
+    },
+    "-Lw9tNZDu05V305p-Pmq" : {
+      "date" : "2019/12/15",
+      "money" : 54,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lw9tSgHxoXImT1u2TtP" : {
+      "date" : "2019/12/15",
+      "money" : 25,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lw9t_jnjewfS8lcP0pC" : {
+      "date" : "2019/12/15",
+      "money" : 20,
+      "text" : "ไส้กรอก"
+    },
+    "-Lw9tbKYlsdC7sEvX4K5" : {
+      "date" : "2019/12/15",
+      "money" : 19,
+      "text" : "น้ำ"
+    },
+    "-LwGcuiKrZHjdBGhuBp-" : {
+      "date" : "2019/12/17",
+      "money" : 35,
+      "text" : "เที่ยง"
+    },
+    "-LwGcyudsUQQdfHxkl0n" : {
+      "date" : "2019/12/17",
+      "money" : 380,
+      "text" : "ข้าวเย็น"
+    },
+    "-LwGd1inVeJXusZqgnlj" : {
+      "date" : "2019/12/17",
+      "money" : 1100,
+      "text" : "ซื้อadapter"
+    },
+    "-LwGohc0LHGO6JI2-V3Q" : {
+      "date" : "2019/12/17",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LwLi3R1Psy1YlirQKLm" : {
+      "date" : "2019/12/18",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LwLi5Wk63eiRs7RNOdE" : {
+      "date" : "2019/12/18",
+      "money" : 20,
+      "text" : "น้ำแข็ง"
+    },
+    "-LwLi7KOLfoDTJjKpNxq" : {
+      "date" : "2019/12/18",
+      "money" : 100,
+      "text" : "ค่า arl"
+    },
+    "-LwMEOuMvJfdMTTjYdXQ" : {
+      "date" : "2019/12/18",
+      "money" : 54,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LwMIjJTeWDd8_4CAHzN" : {
+      "date" : "2019/12/18",
+      "money" : 95,
+      "text" : "น้ำ"
+    },
+    "-LwP09b8ABc7rFAi-q3F" : {
+      "date" : "2019/12/18",
+      "money" : 50,
+      "text" : "น้ำ"
+    },
+    "-LwP0DHhj0s6vXdq4ntG" : {
+      "date" : "2019/12/18",
+      "money" : 54,
+      "text" : "ข้าวเย็น"
+    },
+    "-LwPPILdzUuliyMAKYdb" : {
+      "date" : "2019/12/18",
+      "money" : 265,
+      "text" : "เหล้า"
+    },
+    "-LwSJ3MqtVBcLBYDUdCj" : {
+      "date" : "2019/12/19",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LwXqhqiuHzIuqcoyeNs" : {
+      "date" : "2019/12/20",
+      "money" : 200,
+      "text" : "ดูหนัง"
+    },
+    "-LwXqj9wd9_cJ1_Fd3OW" : {
+      "date" : "2019/12/20",
+      "money" : 46,
+      "text" : "ค่า bts"
+    },
+    "-LwY6AROIUmVQfXC_i0A" : {
+      "date" : "2019/12/20",
+      "money" : 220,
+      "text" : "ข้าวเย็น"
+    },
+    "-LwY6SfSnIdi7FbNXjWM" : {
+      "date" : "2019/12/20",
+      "money" : 100,
+      "text" : "ค่าarl"
+    },
+    "-LwcpVI7FWlLvygBvqRm" : {
+      "date" : "2019/12/21",
+      "money" : 80,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LwcpWaeQi7-ZKV5eV0Z" : {
+      "date" : "2019/12/21",
+      "money" : 330,
+      "text" : "ข้าวเย็น"
+    },
+    "-LwgMpNr-QBf9BjiGt-g" : {
+      "date" : "2019/12/22",
+      "money" : 60,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lwhao35cjOa3tCUBoIs" : {
+      "date" : "2019/12/22",
+      "money" : 40,
+      "text" : "น้ำ"
+    },
+    "-LwhasWampiHebU4M6Ch" : {
+      "date" : "2019/12/22",
+      "money" : 278,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lwhd8DeZISHtSr0r5ua" : {
+      "date" : "2019/12/22",
+      "money" : 40,
+      "text" : "น้ำ"
+    },
+    "-Lwl59QAF8c3PExoP3YL" : {
+      "date" : "2019/12/23",
+      "money" : 200,
+      "text" : "ค่าเหล้า"
+    },
+    "-Lwl6Qu5ArnE9GybDAcW" : {
+      "date" : "2019/12/23",
+      "money" : 40,
+      "text" : "ค่าเหล้า"
+    },
+    "-Lwld4XNyB-beCgtaRdk" : {
+      "date" : "2019/12/23",
+      "money" : 55,
+      "text" : "น้ำส้ม"
+    },
+    "-LwnallcfzMoa16nGpae" : {
+      "date" : "2019/12/23",
+      "money" : 255,
+      "text" : "ข้าวเย็น"
+    },
+    "-LwnhOSLtLBM0ecEld4p" : {
+      "date" : "2019/12/23",
+      "money" : 26,
+      "text" : "ขนม"
+    },
+    "-LwtF2ySOFrQVqNmEvp2" : {
+      "date" : "2019/12/24",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LwtF3k8G5eiovLFZMhh" : {
+      "date" : "2019/12/24",
+      "money" : 60,
+      "text" : "ข้าวเย็น"
+    },
+    "-LwwIFFHtLxXpVK2hoap" : {
+      "date" : "2019/12/25",
+      "money" : 195,
+      "text" : "ค่ารถ"
+    },
+    "-Lwy51vQWBeMVGi1PtCu" : {
+      "date" : "2019/12/25",
+      "money" : 45,
+      "text" : "ยำมะม่วง"
+    },
+    "-Lx-r7GYBr_cQXQYZTG3" : {
+      "date" : "2019/12/26",
+      "money" : 160,
+      "text" : "ค่าหนัง"
+    },
+    "-Lx-rE5dZsebgO3C3VkS" : {
+      "date" : "2019/12/26",
+      "money" : 100,
+      "text" : "ค่าขนม"
+    },
+    "-Lx1My3A0jFsd0Bx8hbg" : {
+      "date" : "2019/12/26",
+      "money" : 492,
+      "text" : "ค่าโทรศัพท์"
+    },
+    "-Lx1OMMj8VlEkT8MQebY" : {
+      "date" : "2019/12/26",
+      "money" : 200,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lx1OP46O5hQ6-kRxGGS" : {
+      "date" : "2019/12/26",
+      "money" : 240,
+      "text" : "ค่าล้างฟิล์ม"
+    },
+    "-Lx5c60yCIj6Ny1yGgWy" : {
+      "date" : "2019/12/27",
+      "money" : 85,
+      "text" : "น้ำ"
+    },
+    "-Lx5c81IClqzYRt3SeDl" : {
+      "date" : "2019/12/27",
+      "money" : 25,
+      "text" : "ข้าวไข่เจียว"
+    },
+    "-Lxw9WNSbh2vU4jcT95J" : {
+      "date" : "2020/1/6",
+      "money" : 5127,
+      "text" : "ค่าห้อง"
+    },
+    "-LxypCibi3577ByLvJdw" : {
+      "date" : "2020/1/7",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-LxypDmLfH_r3liCrrbZ" : {
+      "date" : "2020/1/7",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LxypHIfBPaW_bJnVL3w" : {
+      "date" : "2020/1/7",
+      "money" : 53,
+      "text" : "ค่ารถ"
+    },
+    "-Ly0ANbu7qZTTj2nudTg" : {
+      "date" : "2020/1/7",
+      "money" : 25,
+      "text" : "ข้าวเย็น"
+    },
+    "-Ly0AOSP9h4NDZu4lK-M" : {
+      "date" : "2020/1/7",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-Ly0AP2oF-dtI2jlw-oj" : {
+      "date" : "2020/1/7",
+      "money" : 38,
+      "text" : "มาม่า"
+    },
+    "-Ly2n_j3D7PVSe24gp-d" : {
+      "date" : "2020/1/8",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Ly30JHuuipqpKkGesBe" : {
+      "date" : "2020/1/8",
+      "money" : 23,
+      "text" : "ค่า BTS"
+    },
+    "-Ly35Opjbo61zEF65I7_" : {
+      "date" : "2020/1/8",
+      "money" : 80,
+      "text" : "ชา"
+    },
+    "-Ly7zF4OheTLqORNRJKJ" : {
+      "date" : "2020/1/9",
+      "money" : 23,
+      "text" : "ค่า BTS"
+    },
+    "-Ly8qWPAaBVPWX5lOe_N" : {
+      "date" : "2020/1/9",
+      "money" : 30,
+      "text" : "ไส้กรอก"
+    },
+    "-Ly8qXeiST3N-4l2vixo" : {
+      "date" : "2020/1/9",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-Ly9lQrKBKaoxWOXtxk6" : {
+      "date" : "2020/1/9",
+      "money" : 616,
+      "text" : "ชาบู"
+    },
+    "-Ly9lS4WAgkP5qKCT6XY" : {
+      "date" : "2020/1/9",
+      "money" : 53,
+      "text" : "ค่ารถ"
+    },
+    "-LyEPojxGdBL5Y4L2xQn" : {
+      "date" : "2020/1/10",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-LyEPseGbbdPO783fimn" : {
+      "date" : "2020/1/10",
+      "money" : 38,
+      "text" : "ขนม"
+    },
+    "-LyEPuEb5ZxtJg5XLwp8" : {
+      "date" : "2020/1/10",
+      "money" : 25,
+      "text" : "ข้าวเย็น"
+    },
+    "-LyEPvORJJVghbv4NO9I" : {
+      "date" : "2020/1/10",
+      "money" : 80,
+      "text" : "ค่าน้ำมัน"
+    },
+    "-LyJhGABAZF9I0YvTDtv" : {
+      "date" : "2020/1/11",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LyJhK8gTECnANmoxGjt" : {
+      "date" : "2020/1/11",
+      "money" : 19,
+      "text" : "แดงมะนาวโซดา"
+    },
+    "-LyN8eDtnu5lyzitVR7e" : {
+      "date" : "2020/1/12",
+      "money" : 270,
+      "text" : "ค่าเหล้า"
+    },
+    "-LyNcZrKs0ZqvG3XE5jX" : {
+      "date" : "2020/1/12",
+      "money" : 51,
+      "text" : "น้ำ"
+    },
+    "-LyNcd6K0Bbb485NMGf_" : {
+      "date" : "2020/1/12",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LyOopHYcr252FwOs9Xf" : {
+      "date" : "2020/1/12",
+      "money" : 15,
+      "text" : "แทงพูล"
+    },
+    "-LyOzEHGSWS2kXIhlZsV" : {
+      "date" : "2020/1/12",
+      "money" : 35,
+      "text" : "ซูชิ"
+    },
+    "-LyTLTGz7rMfAJRz5DzU" : {
+      "date" : "2020/1/13",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LyVCFAaDzXsHdjIEH3z" : {
+      "date" : "2020/1/13",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-LyVCGb2f2O24kvX9mey" : {
+      "date" : "2020/1/13",
+      "money" : 30,
+      "text" : "ไส้กรอก"
+    },
+    "-Ly_5f2Bso0H9pDVfZLE" : {
+      "date" : "2020/1/14",
+      "money" : 25,
+      "text" : "ข้าวเย็น"
+    },
+    "-Ly_5jogh7L_QrHByTSX" : {
+      "date" : "2020/1/14",
+      "money" : 30,
+      "text" : "ไส้กรอก"
+    },
+    "-LycsRWy_Fu6zIuRw_1W" : {
+      "date" : "2020/1/15",
+      "money" : 45,
+      "text" : "ส้มตำ"
+    },
+    "-LycsSe4NPxlc3FoVSag" : {
+      "date" : "2020/1/15",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-Lyd22QgtOX6AjUh761u" : {
+      "date" : "2020/1/15",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lyd24J-Rp_3hj8TCNsX" : {
+      "date" : "2020/1/15",
+      "money" : 20,
+      "text" : "หัวไชเท้า"
+    },
+    "-Lyd25ngQQXpLdGryPqX" : {
+      "date" : "2020/1/15",
+      "money" : 34,
+      "text" : "เครื่องปรุง"
+    },
+    "-Lyd28Kk-6w--vlkk1pc" : {
+      "date" : "2020/1/15",
+      "money" : 20,
+      "text" : "ไส้กรอก"
+    },
+    "-Lygg9zHruhBzLdcAKTo" : {
+      "date" : "2020/1/16",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LyggCQlry4murjHQCHk" : {
+      "date" : "2020/1/16",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LyggDmtUIw1tSp3sInh" : {
+      "date" : "2020/1/16",
+      "money" : 10,
+      "text" : "น้ำ"
+    },
+    "-LyiRdhjxXrtdRkBWMMI" : {
+      "date" : "2020/1/16",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LyjAzFQquiPJAzbgm84" : {
+      "date" : "2020/1/16",
+      "money" : 177,
+      "text" : "ค่าเบียร์"
+    },
+    "-LynXo7sNJV9wxJojJKq" : {
+      "date" : "2020/1/17",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LyrAr2XSEcPaeRhtZqq" : {
+      "date" : "2020/1/18",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LyrArXdgailOwCd4Umv" : {
+      "date" : "2020/1/18",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-LysWRvkiP7rsKSG-MOY" : {
+      "date" : "2020/1/18",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LysWY-Vmxxy2Eo0UV5N" : {
+      "date" : "2020/1/18",
+      "money" : 78,
+      "text" : "ค่าเบียร์"
+    },
+    "-LytwEsGsSdYPnTGm71c" : {
+      "date" : "2020/1/18",
+      "money" : 230,
+      "text" : "ค่าเหล้า"
+    },
+    "-Lyy_TSINNryUx8jBd3F" : {
+      "date" : "2020/1/19",
+      "money" : 80,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lz12MCNZ1I7IQSgfNkn" : {
+      "date" : "2020/1/20",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-Lz1oEk_iNS8Unwp2OAC" : {
+      "date" : "2020/1/20",
+      "money" : 50,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lz1pWZFLqWGs6sYfg0Z" : {
+      "date" : "2020/1/20",
+      "money" : 20,
+      "text" : "ไส้กรอก"
+    },
+    "-Lz6-5QUCDihCQyuMpzG" : {
+      "date" : "2020/1/21",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lz6BQPZIq_XRzbk_Osn" : {
+      "date" : "2020/1/21",
+      "money" : 294,
+      "text" : "ค่าโทรศัพท์"
+    },
+    "-Lz6FTvyOq52-hH5b7xL" : {
+      "date" : "2020/1/21",
+      "money" : 63,
+      "text" : "ติ๋มซำ"
+    },
+    "-Lz6FnA-1KgdBjnj64et" : {
+      "date" : "2020/1/21",
+      "money" : 35,
+      "text" : "ชานม"
+    },
+    "-Lz6FpjPz5DPZQUPwNFb" : {
+      "date" : "2020/1/21",
+      "money" : 40,
+      "text" : "ค่ารถตู้"
+    },
+    "-LzAb-hZP51snZPSmhZY" : {
+      "date" : "2020/1/22",
+      "money" : 631.3,
+      "text" : "ค่าอินเตอร์เน็ต"
+    },
+    "-LzCImTpDkMYTRxdZFVB" : {
+      "date" : "2020/1/22",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LzCIntrMnLNBCIyacO3" : {
+      "date" : "2020/1/22",
+      "money" : 20,
+      "text" : "ชา"
+    },
+    "-LzCJZiQsr3_sSwf0NzX" : {
+      "date" : "2020/1/22",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LzGr1DR59-UWwLa9C5w" : {
+      "date" : "2020/1/23",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LzGr43BwAx7ZAz6xojh" : {
+      "date" : "2020/1/23",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-LzI5lmsYuh7ioSTUZT1" : {
+      "date" : "2020/1/23",
+      "money" : 19,
+      "text" : "น้ำ"
+    },
+    "-LzI5mW_6RMtc7cm0O81" : {
+      "date" : "2020/1/23",
+      "money" : 20,
+      "text" : "ไส้กรอก"
+    },
+    "-LzPfvTpw7CD_2CZnRbl" : {
+      "date" : "2020/1/25",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LzPfxWgN28o8Rg3s38Y" : {
+      "date" : "2020/1/25",
+      "money" : 60,
+      "text" : "ข้าวเย็น"
+    },
+    "-LzPfyQORAqhbuFye5_Q" : {
+      "date" : "2020/1/25",
+      "money" : 16,
+      "text" : "น้ำ"
+    },
+    "-LzQ8Fq1F1Q_kqMyYp8y" : {
+      "date" : "2020/1/25",
+      "money" : 43,
+      "text" : "ข้าวหมูแดง"
+    },
+    "-LzQ8H2BaFSr9-9DM55f" : {
+      "date" : "2020/1/25",
+      "money" : 12,
+      "text" : "น้ำ"
+    },
+    "-LzQ9se67S37rkjMpJB7" : {
+      "date" : "2020/1/25",
+      "money" : 56,
+      "text" : "ค่า bts"
+    },
+    "-LzQK_naAS3fKLLQiZCX" : {
+      "date" : "2020/1/25",
+      "money" : 87,
+      "text" : "เกาเหลา"
+    },
+    "-LzQOico9ZZDYOusFVoP" : {
+      "date" : "2020/1/25",
+      "money" : 12,
+      "text" : "รถเมล์"
+    },
+    "-LzQrJWcASkPObmBJyxg" : {
+      "date" : "2020/1/25",
+      "money" : 50,
+      "text" : "กาแฟ"
+    },
+    "-LzQrZynrH6xMKgbGMUJ" : {
+      "date" : "2020/1/25",
+      "money" : 130,
+      "text" : "ดูหนัง"
+    },
+    "-LzRiS7g6dzW-AfAug6B" : {
+      "date" : "2020/1/25",
+      "money" : 100,
+      "text" : "ค่าarl"
+    },
+    "-LzRqmUr0exfbocc-mkB" : {
+      "date" : "2020/1/25",
+      "money" : 421,
+      "text" : "ซื้อของใช้"
+    },
+    "-LzVsPiON8GqzRJz3WXV" : {
+      "date" : "2020/1/26",
+      "money" : 20,
+      "text" : "โออิชิ"
+    },
+    "-LzWw6r8vBhWvbNFitoE" : {
+      "date" : "2020/1/26",
+      "money" : 60,
+      "text" : "อบผ้า"
+    },
+    "-Lz_y9OnHanRY9AhDO9R" : {
+      "date" : "2020/1/27",
+      "money" : 80,
+      "text" : "ส้มตำ"
+    },
+    "-LzaqH4RFFORqM3Bsg0y" : {
+      "date" : "2020/1/27",
+      "money" : 70,
+      "text" : "ซักผ้า"
+    },
+    "-Lzarxug-EXffRYkOwHY" : {
+      "date" : "2020/1/27",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-Lzat8rBrGDigCF9bYl0" : {
+      "date" : "2020/1/27",
+      "money" : 40,
+      "text" : "ข้าวมันไก่"
+    },
+    "-LzauKH7zQUWrfV7In9D" : {
+      "date" : "2020/1/27",
+      "money" : 20,
+      "text" : "ขนมจีบ"
+    },
+    "-LzaxxfEUSdFVUqBm7tj" : {
+      "date" : "2020/1/27",
+      "money" : 80,
+      "text" : "ยำหอยแครง"
+    },
+    "-Lzb4-X1R6nhLr9unDik" : {
+      "date" : "2020/1/27",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-Lzb5Ja1hkSttR0XWa11" : {
+      "date" : "2020/1/27",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LzbKjR5DRY7xAOeCzJZ" : {
+      "date" : "2020/1/27",
+      "money" : 80,
+      "text" : "ส้มตำ"
+    },
+    "-LzbUqTuVfzRwxThDt1q" : {
+      "date" : "2020/1/27",
+      "money" : 55,
+      "text" : "ข้าวเย็น"
+    },
+    "-Lzf-4aLNZx89zpftW92" : {
+      "date" : "2020/1/28",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-LzgGtWAYMLIo5cAgAYQ" : {
+      "date" : "2020/1/28",
+      "money" : 25,
+      "text" : "ข้าวเย็น"
+    },
+    "-LzgJ15oMb9iNai4V_Mq" : {
+      "date" : "2020/1/28",
+      "money" : 39,
+      "text" : "ขนม"
+    },
+    "-Lzk-7E6R-yF2uytD5IS" : {
+      "date" : "2020/1/29",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LzkICVXo7s8KcmPAQ5h" : {
+      "date" : "2020/1/29",
+      "money" : 20,
+      "text" : "ไก่ทอด"
+    },
+    "-LzlAjLw5SHtTGK9TvSH" : {
+      "date" : "2020/1/29",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-LzpTYxOyOCP6SZ_Y3iR" : {
+      "date" : "2020/1/30",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-LzpXQ5lwLoPiTeC53uV" : {
+      "date" : "2020/1/30",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-Lzp_6lRV5-nLMO1rcg0" : {
+      "date" : "2020/1/30",
+      "money" : 5,
+      "text" : "น้ำ"
+    },
+    "-LzpqVmcdOslm6os7_ow" : {
+      "date" : "2020/1/30",
+      "money" : 12,
+      "text" : "เป๊ปซี่"
+    },
+    "-Lzq7dEktjlcnfx_Xp9K" : {
+      "date" : "2020/1/30",
+      "money" : 30,
+      "text" : "ขนม"
+    },
+    "-LzqClkJzjsBsENYkzCT" : {
+      "date" : "2020/1/30",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-LztdNQMIBd2oV1mZa6P" : {
+      "date" : "2020/1/31",
+      "money" : 120,
+      "text" : "กาแฟ"
+    },
+    "-LzuJKh_v_qJeW1U8XSq" : {
+      "date" : "2020/1/31",
+      "money" : 50,
+      "text" : "ค่าแท็กซี่"
+    },
+    "-LzuVoFxElOO7cXNCIX6" : {
+      "date" : "2020/1/31",
+      "money" : 130,
+      "text" : "ไอติม"
+    },
+    "-Lzut1_hWT-ta3s_aW29" : {
+      "date" : "2020/1/31",
+      "money" : 93,
+      "text" : "ชา"
+    },
+    "-LzvJifp0NORjGpPR5kG" : {
+      "date" : "2020/1/31",
+      "money" : 70,
+      "text" : "น้ำ"
+    },
+    "-M--FKA_kXL-dzAzASRV" : {
+      "date" : "2020/2/1",
+      "money" : 5450,
+      "text" : "ค่าห้อง"
+    },
+    "-M--L6cxYkiIXQQNwwjc" : {
+      "date" : "2020/2/1",
+      "money" : 1500,
+      "text" : "จ่ายหนี้ไอซ์"
+    },
+    "-M--O79hIfFMVlEWmWo7" : {
+      "date" : "2020/2/1",
+      "money" : 145,
+      "text" : "ค่า Netflix"
+    },
+    "-M--UE4AjRWQqfprljDk" : {
+      "date" : "2020/2/1",
+      "money" : 65,
+      "text" : "ชูซิ"
+    },
+    "-M--Xmswqx1oII-0pM8L" : {
+      "date" : "2020/2/1",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M-10OTMqw_W4HgkCloV" : {
+      "date" : "2020/2/1",
+      "money" : 40,
+      "text" : "เมล็ดพุทจีน"
+    },
+    "-M-19XfwuLhOl8lb_RoY" : {
+      "date" : "2020/2/1",
+      "money" : 88,
+      "text" : "ขนม"
+    },
+    "-M-1ARfLAPyvyPmgG7mj" : {
+      "date" : "2020/2/1",
+      "money" : 40,
+      "text" : "ไส้กรอก"
+    },
+    "-M-4lHfFAQuBMZuKMcJZ" : {
+      "date" : "2020/2/2",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M-4n71lIeHVWziM3h--" : {
+      "date" : "2020/2/2",
+      "money" : 50,
+      "text" : "ยำมาม่า"
+    },
+    "-M-4oo36YRf5wruAgwy0" : {
+      "date" : "2020/2/2",
+      "money" : 19,
+      "text" : "น้ำ"
+    },
+    "-M-8_eHHzRryLhBuWguR" : {
+      "date" : "2020/2/3",
+      "money" : 45,
+      "text" : "ค่ารถตู้"
+    },
+    "-M-8qYAYgmTOxGmHRPK-" : {
+      "date" : "2020/2/3",
+      "money" : 32,
+      "text" : "ขนม"
+    },
+    "-M-8rpHWuU18Nb6NsAwo" : {
+      "date" : "2020/2/3",
+      "money" : 35,
+      "text" : "ค่ารถตู้"
+    },
+    "-M-9P9sDeHOM8lLO4pYq" : {
+      "date" : "2020/2/3",
+      "money" : 80,
+      "text" : "ค่ารถตู้"
+    },
+    "-M-9f3AcatC9FVtDSNll" : {
+      "date" : "2020/2/3",
+      "money" : 20,
+      "text" : "ไก่ทอด"
+    },
+    "-M-9hCVYGDpxKb4lauxM" : {
+      "date" : "2020/2/3",
+      "money" : 24,
+      "text" : "ชานม"
+    },
+    "-M-9o4qoveWW3Wex1S7Z" : {
+      "date" : "2020/2/3",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M-9paCmf548cJjrHkS1" : {
+      "date" : "2020/2/3",
+      "money" : 100.16,
+      "text" : "ค่านิยาย"
+    },
+    "-M-D_gxivqdLae7yS_pJ" : {
+      "date" : "2020/2/4",
+      "money" : 20,
+      "text" : "ไก่ทอด"
+    },
+    "-M-Dbe2Aog0lmqWqaiXv" : {
+      "date" : "2020/2/4",
+      "money" : 12,
+      "text" : "น้ำ"
+    },
+    "-M-Ep1wd5QPwedCtzYNy" : {
+      "date" : "2020/2/4",
+      "money" : 195,
+      "text" : "ข้าวเย็น"
+    },
+    "-M-F06w8WQak4Ca5GGj7" : {
+      "date" : "2020/2/4",
+      "money" : 20,
+      "text" : "ไอติม"
+    },
+    "-M-GiOrf2mG-JGx7KdNI" : {
+      "date" : "2020/2/4",
+      "money" : 19,
+      "text" : "ไอติม"
+    },
+    "-M-GjtPgWAJ18J17wPG4" : {
+      "date" : "2020/2/4",
+      "money" : 300,
+      "text" : "เติมเกม"
+    },
+    "-M-JR7YPOaAUiJoW4GcA" : {
+      "date" : "2020/2/5",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-M-JVATh6Ho1z1XfxZkT" : {
+      "date" : "2020/2/5",
+      "money" : 35,
+      "text" : "โกโก้"
+    },
+    "-M-K6h3zj0TaPZLSCTeC" : {
+      "date" : "2020/2/5",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M-L9r8RyYf6qmCsJCAH" : {
+      "date" : "2020/2/5",
+      "money" : 35,
+      "text" : "หมาล่า"
+    },
+    "-M-P9fmYf3oMNhly7ddF" : {
+      "date" : "2020/2/6",
+      "money" : 15,
+      "text" : "น้ำ"
+    },
+    "-M-PHg91cz_iwJ_INfWQ" : {
+      "date" : "2020/2/6",
+      "money" : 20,
+      "text" : "ซาลาเปา"
+    },
+    "-M-RDuBi4uzU_IsekZln" : {
+      "date" : "2020/2/6",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-M-TJ3X-bo9pQGu8Mfil" : {
+      "date" : "2020/2/7",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-M-UJvEdvGZ3QJSKQPai" : {
+      "date" : "2020/2/7",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M-UU3lrh63JnpipU69T" : {
+      "date" : "2020/2/7",
+      "money" : 55,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M-UXBrrZ_C_VlCUQvIS" : {
+      "date" : "2020/2/7",
+      "money" : 45,
+      "text" : "ซูชิ"
+    },
+    "-M-ZmfHYb15T-_I5STX2" : {
+      "date" : "2020/2/8",
+      "money" : 75,
+      "text" : "เติมน้ำมัน"
+    },
+    "-M-ZmgoaPa7ZInt3N8Bp" : {
+      "date" : "2020/2/8",
+      "money" : 110,
+      "text" : "ส้มตำ"
+    },
+    "-M-ZoqV-a0re87vMH4K1" : {
+      "date" : "2020/2/8",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-M-ZoribPEkZJInjyQ5T" : {
+      "date" : "2020/2/8",
+      "money" : 12,
+      "text" : "มาม่า"
+    },
+    "-M-aSNvvnxEGAWCgOx4H" : {
+      "date" : "2020/2/8",
+      "money" : 57,
+      "text" : "ข้าวเย็น"
+    },
+    "-M-ciKgO70aSHdYLfhEJ" : {
+      "date" : "2020/2/9",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M-d0c0dBcjcCLxB1qYX" : {
+      "date" : "2020/2/9",
+      "money" : 270,
+      "text" : "ล้างรถ"
+    },
+    "-M-d1N4Fjf-7oO46-diK" : {
+      "date" : "2020/2/9",
+      "money" : 45,
+      "text" : "ชานม"
+    },
+    "-M-d1OuAAzH0IOBbzvLV" : {
+      "date" : "2020/2/9",
+      "money" : 40,
+      "text" : "ขนม"
+    },
+    "-M-d4_WDMZ6584i862k-" : {
+      "date" : "2020/2/9",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-M-i4GlqovPVbfezCSKW" : {
+      "date" : "2020/2/10",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M-jBte-T4AHo6NnlrXS" : {
+      "date" : "2020/2/10",
+      "money" : 24,
+      "text" : "ชานม"
+    },
+    "-M-jjyQty3TNuJbDJtLW" : {
+      "date" : "2020/2/10",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M-mOyBs8W6eDM-HKXLd" : {
+      "date" : "2020/2/11",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-M-mXGvjY1w0lHBCQYuD" : {
+      "date" : "2020/2/11",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M-mXI64_xOOuWG4qndd" : {
+      "date" : "2020/2/11",
+      "money" : 10,
+      "text" : "น้ำ"
+    },
+    "-M-nbV_7wGimVIvvcT0f" : {
+      "date" : "2020/2/11",
+      "money" : 20,
+      "text" : "จ้อปู"
+    },
+    "-M-nk1JmEY6TcCHuMXol" : {
+      "date" : "2020/2/11",
+      "money" : 20,
+      "text" : "น้ำมะพร้าว"
+    },
+    "-M-ss3W2KHyb_RLxcqyb" : {
+      "date" : "2020/2/12",
+      "money" : 69,
+      "text" : "เบอร์เกอร์"
+    },
+    "-M-tFZ0IMgR9EULIV6Uw" : {
+      "date" : "2020/2/12",
+      "money" : 228,
+      "text" : "ชาบู"
+    },
+    "-M-tHoc8rwztFh3rEeKz" : {
+      "date" : "2020/2/12",
+      "money" : 57,
+      "text" : "ขนม"
+    },
+    "-M-tJK-nocPMb1dhXjkF" : {
+      "date" : "2020/2/12",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M-xXeZmFNvoCKWoJuzc" : {
+      "date" : "2020/2/13",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-M-xzzt3bVBEgmrQj1jl" : {
+      "date" : "2020/2/13",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M-y4bBoSczVtkn_UKxK" : {
+      "date" : "2020/2/13",
+      "money" : 20,
+      "text" : "ซาลาเปา"
+    },
+    "-M-yBjRQ_0J334-FCNRE" : {
+      "date" : "2020/2/13",
+      "money" : 30,
+      "text" : "ไส้ย่าง"
+    },
+    "-M-yz05Q5UvJfsDkV-Xt" : {
+      "date" : "2020/2/13",
+      "money" : 500,
+      "text" : "ซื้อเกม"
+    },
+    "-M01qHbzZ68c0jn_d8bX" : {
+      "date" : "2020/2/14",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M01uk-LsCN4oz9QCm8D" : {
+      "date" : "2020/2/14",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M0264Se5WopeDtmGeyp" : {
+      "date" : "2020/2/14",
+      "money" : 70,
+      "text" : "ค่า Spotify"
+    },
+    "-M02k16jZQy1Dlgp-x7Q" : {
+      "date" : "2020/2/14",
+      "money" : 25,
+      "text" : "น้ำ"
+    },
+    "-M03iSrrnVXY7byVc2cO" : {
+      "date" : "2020/2/14",
+      "money" : 236,
+      "text" : "ค่าเหล้า"
+    },
+    "-M03pljlSQh1MkhRLrxX" : {
+      "date" : "2020/2/14",
+      "money" : 81,
+      "text" : "ขนม"
+    },
+    "-M06VwcB3EIsnYNkAaX6" : {
+      "date" : "2020/2/15",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M078yym81mga8Y1xKB8" : {
+      "date" : "2020/2/15",
+      "money" : 80,
+      "text" : "กาแฟ"
+    },
+    "-M07Zw7eua0B1E9bd7iN" : {
+      "date" : "2020/2/15",
+      "money" : 55,
+      "text" : "ช้าวเย็น"
+    },
+    "-M07k3HvlfbC4a8pLJbj" : {
+      "date" : "2020/2/15",
+      "money" : 35,
+      "text" : "น้ำ"
+    },
+    "-M0BuCUqV3oyBHXpCgF4" : {
+      "date" : "2020/2/16",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-M0Bx2PII1mScllXsAm6" : {
+      "date" : "2020/2/16",
+      "money" : 69,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M0D_IFZTOHhoSNaB5KC" : {
+      "date" : "2020/2/16",
+      "money" : 150,
+      "text" : "ตัดผม"
+    },
+    "-M0DfVoH0stoVeHy9uyH" : {
+      "date" : "2020/2/16",
+      "money" : 20,
+      "text" : "มะละกอ"
+    },
+    "-M0DuHsrEc-XND_gra0z" : {
+      "date" : "2020/2/16",
+      "money" : 50,
+      "text" : "ขนม"
+    },
+    "-M0HToOU1Ntt92sY_1gJ" : {
+      "date" : "2020/2/17",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-M0HeCvnGNO1mWXopkWv" : {
+      "date" : "2020/2/17",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M0IOOctaA3lYYr9UMH1" : {
+      "date" : "2020/2/17",
+      "money" : 75,
+      "text" : "ข้าวเย็น"
+    },
+    "-M0MudbkcRR69hf6_58e" : {
+      "date" : "2020/2/18",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-M0MyY9oJCmDxFuxJcQA" : {
+      "date" : "2020/2/18",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M0NF2jjMPPSvF138UC8" : {
+      "date" : "2020/2/18",
+      "money" : 20,
+      "text" : "ขนม"
+    },
+    "-M0NfYJF03XatkxDYtCD" : {
+      "date" : "2020/2/18",
+      "money" : 35,
+      "text" : "น้ำ"
+    },
+    "-M0RMxZ1APU6FvDh-_rX" : {
+      "date" : "2020/2/19",
+      "money" : 35,
+      "text" : "น้ำ"
+    },
+    "-M0RZh2DkMMWOr0QR1Q8" : {
+      "date" : "2020/2/19",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M0SmQRiDnIhOoDrlELg" : {
+      "date" : "2020/2/19",
+      "money" : 20,
+      "text" : "ไก่ทอด"
+    },
+    "-M0SstCB9vJVbmUaoFRL" : {
+      "date" : "2020/2/19",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-M0VlKLqt5Klxdn7-gQZ" : {
+      "date" : "2020/2/20",
+      "money" : 19,
+      "text" : "น้ำ"
+    },
+    "-M0WCCnkIOwQp7FcKMqY" : {
+      "date" : "2020/2/20",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M0WvlB32rYvhbUrBjRV" : {
+      "date" : "2020/2/20",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M0WzbZzQSJjflSMnR1d" : {
+      "date" : "2020/2/20",
+      "money" : 35,
+      "text" : "ขนม"
+    },
+    "-M0b_VF1lQA2px_Y0y1a" : {
+      "date" : "2020/2/21",
+      "money" : 10,
+      "text" : "ไอติม"
+    },
+    "-M0c3pKrVwAbarmTwwrZ" : {
+      "date" : "2020/2/21",
+      "money" : 392,
+      "text" : "ชาบู"
+    },
+    "-M0fsS3T7k697XTQBPo2" : {
+      "date" : "2020/2/22",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M0fw_5Wehwai1UnpIME" : {
+      "date" : "2020/2/22",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M0hoo-T-cXNe0fWwLrc" : {
+      "date" : "2020/2/22",
+      "money" : 30,
+      "text" : "ไส้กรอก"
+    },
+    "-M0lJAVnCpFc6WIKHngG" : {
+      "date" : "2020/2/23",
+      "money" : 200,
+      "text" : "ค่าเหล้า"
+    },
+    "-M0mWFr4iCfOC91rsdgP" : {
+      "date" : "2020/2/23",
+      "money" : 60,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M0mpS3glC32pueTOoQC" : {
+      "date" : "2020/2/23",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M0mrE3MO_oYdyymKt5D" : {
+      "date" : "2020/2/23",
+      "money" : 52,
+      "text" : "น้ำ"
+    },
+    "-M0pRwSBTL3EVnt7Svmf" : {
+      "date" : "2020/2/24",
+      "money" : 185,
+      "text" : "มาม่า"
+    },
+    "-M0qWk43xEQg_s7tlhUa" : {
+      "date" : "2020/2/24",
+      "money" : 75,
+      "text" : "ถุงยาง"
+    },
+    "-M0rNOGE6wPXi2jtOc1K" : {
+      "date" : "2020/2/24",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M0sK4dQRkGjvFN6neWW" : {
+      "date" : "2020/2/24",
+      "money" : 20,
+      "text" : "น้ำ"
+    },
+    "-M0v8VTPTMNtV7AvAgj5" : {
+      "date" : "2020/2/25",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-M0vRpQQlvUQSZRKSMTR" : {
+      "date" : "2020/2/25",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M0w3a2NYel9vnwUZ-pe" : {
+      "date" : "2020/2/25",
+      "money" : 5,
+      "text" : "น้ำ"
+    },
+    "-M0x6QalezsRHwG3VfG9" : {
+      "date" : "2020/2/25",
+      "money" : 25,
+      "text" : "ชานม"
+    },
+    "-M0xWLfI5bvFs4RWKRUt" : {
+      "date" : "2020/2/25",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M0xYfFXlZXKOLRnzWkM" : {
+      "date" : "2020/2/25",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M1-Rwis4GDd1mDw91CK" : {
+      "date" : "2020/2/26",
+      "money" : 135,
+      "text" : "กาแฟ"
+    },
+    "-M100IfXBzn2GvZ30qem" : {
+      "date" : "2020/2/26",
+      "money" : 65,
+      "text" : "ค่าแท็กซี่"
+    },
+    "-M10DNLVT4Vvezh2mijM" : {
+      "date" : "2020/2/26",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M140goDff_ViMG7L-XZ" : {
+      "date" : "2020/2/27",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-M14OFB2v-aP9QWyMUx4" : {
+      "date" : "2020/2/27",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M14s8kHH0l82h_U0pcR" : {
+      "date" : "2020/2/27",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M14xV7N2UxRnGclYAsG" : {
+      "date" : "2020/2/27",
+      "money" : 631.3,
+      "text" : "ค่าอินเตอร์เน็ต"
+    },
+    "-M155sy4-m9TMJS_noLG" : {
+      "date" : "2020/2/27",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M164sL0DK6WWS8cjYfu" : {
+      "date" : "2020/2/27",
+      "money" : 11,
+      "text" : "ไข่ต้ม"
+    },
+    "-M16FEofEa9P6d-b3c2K" : {
+      "date" : "2020/2/27",
+      "money" : 35,
+      "text" : "น้ำ"
+    },
+    "-M178FmCt9wsOdyji7eQ" : {
+      "date" : "2020/2/27",
+      "money" : 58,
+      "text" : "ขนม"
+    },
+    "-M1ArsmmJiQyH_7jHmCI" : {
+      "date" : "2020/2/28",
+      "money" : 60,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1AyWJ_35_GMabVJToq" : {
+      "date" : "2020/2/28",
+      "money" : 19,
+      "text" : "น้ำ"
+    },
+    "-M1EgqJK0qqaD0aJPDNP" : {
+      "date" : "2020/2/29",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M1EjwGIeY35otUd5cW7" : {
+      "date" : "2020/2/29",
+      "money" : 35,
+      "text" : "ชามะนาว"
+    },
+    "-M1FEVzW9UG1OGyWJnou" : {
+      "date" : "2020/2/29",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M1Fnx6kDmbL5PIxu0lg" : {
+      "date" : "2020/2/29",
+      "money" : 60,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1HrdMEe1NSaFUTrF1B" : {
+      "date" : "2020/2/29",
+      "money" : 148,
+      "text" : "ชาบู"
+    },
+    "-M1KjKjdHJ-XKIQNbnv8" : {
+      "date" : "2020/3/1",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M1Kn-SHO9gXzJjMNTXn" : {
+      "date" : "2020/3/1",
+      "money" : 20,
+      "text" : "นมเปรี้ยว"
+    },
+    "-M1LJw7rQDwcWhqhKLLP" : {
+      "date" : "2020/3/1",
+      "money" : 45,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1LOknqVAipJQsMvOgK" : {
+      "date" : "2020/3/1",
+      "money" : 30,
+      "text" : "หมาล่า"
+    },
+    "-M1LrA6qb3KO0OuKo9nz" : {
+      "date" : "2020/3/1",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M1Ofz-KhXlzOd9jyCwI" : {
+      "date" : "2020/3/2",
+      "money" : 1500,
+      "text" : "จ่ายหนี้"
+    },
+    "-M1OmibOTs-R0HyhuPCB" : {
+      "date" : "2020/3/2",
+      "money" : 25,
+      "text" : "ข้าวเที่ยว"
+    },
+    "-M1PR_skDf_C78tqDbpl" : {
+      "date" : "2020/3/2",
+      "money" : 5,
+      "text" : "น้ำกระเจี๊ยบ"
+    },
+    "-M1PleaXWxvZkspQwwtL" : {
+      "date" : "2020/3/2",
+      "money" : 30,
+      "text" : "น้ำมะนาว"
+    },
+    "-M1QpWCvCc79iMwH0fgV" : {
+      "date" : "2020/3/2",
+      "money" : 79,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1RtBQTa76IIP0mOBlC" : {
+      "date" : "2020/3/2",
+      "money" : 105,
+      "text" : "ขนม"
+    },
+    "-M1U6u56Wq-SsnsY7G6R" : {
+      "date" : "2020/3/3",
+      "money" : 1356.8,
+      "text" : "ค่าเครื่องบิน"
+    },
+    "-M1UNqcORRntm530Ro8e" : {
+      "date" : "2020/3/3",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M1VQSaW1VNXY6NDFxzi" : {
+      "date" : "2020/3/3",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1VTWlX-bE1GHWOs8ek" : {
+      "date" : "2020/3/3",
+      "money" : 55,
+      "text" : "ชูชิ"
+    },
+    "-M1WN9Pse7jCkOguCpQx" : {
+      "date" : "2020/3/3",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M1ZF4lxS80kKC3UWY3j" : {
+      "date" : "2020/3/4",
+      "money" : 15,
+      "text" : "ถ่ายเอกสาร"
+    },
+    "-M1_F6jO-9RXdRMJ2CHX" : {
+      "date" : "2020/3/4",
+      "money" : 5337,
+      "text" : "ค่าห้อง"
+    },
+    "-M1_GxZm7GVWaE12sJPO" : {
+      "date" : "2020/3/4",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M1_JwsUIV1FmxvnSoU2" : {
+      "date" : "2020/3/4",
+      "money" : 36,
+      "text" : "ชามะนาว"
+    },
+    "-M1_O_b3UG3D1jwZViWH" : {
+      "date" : "2020/3/4",
+      "money" : 50,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1_QCSztxeVq8Yebttf" : {
+      "date" : "2020/3/4",
+      "money" : 30,
+      "text" : "ชามะลิ"
+    },
+    "-M1d6G6HUI_tyntTw6OE" : {
+      "date" : "2020/3/5",
+      "money" : 30,
+      "text" : "เล้ง"
+    },
+    "-M1e4Lp7aPpUrw6rEbM0" : {
+      "date" : "2020/3/5",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M1eIkmjOEa1tcbxmlsI" : {
+      "date" : "2020/3/5",
+      "money" : 5,
+      "text" : "น้ำกระเจี๊ยบ"
+    },
+    "-M1ebOhHu17poL2cd4N_" : {
+      "date" : "2020/3/5",
+      "money" : 60,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1fiFbqJjo8p766UNwN" : {
+      "date" : "2020/3/5",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M1iHHtGL3fwdt113oEr" : {
+      "date" : "2020/3/6",
+      "money" : 25,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M1jn7C-yPI9hW3DJqBH" : {
+      "date" : "2020/3/6",
+      "money" : 25,
+      "text" : "ชานม"
+    },
+    "-M1k9SF4V_Nk0pvh1RRm" : {
+      "date" : "2020/3/6",
+      "money" : 140,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1pIJU_SmE63qtu1jA3" : {
+      "date" : "2020/3/7",
+      "money" : 40,
+      "text" : "น้ำ"
+    },
+    "-M1q9bhg4Am8DszYxtY-" : {
+      "date" : "2020/3/7",
+      "money" : 190,
+      "text" : "ค่าเหล้า"
+    },
+    "-M1qBJYnROpqOgfYXYlI" : {
+      "date" : "2020/3/7",
+      "money" : 55,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1qyACZdPnn_lW22jVg" : {
+      "date" : "2020/3/7",
+      "money" : 110,
+      "text" : "หมูกะทะ"
+    },
+    "-M1sxSEuCEWS25aaNP_X" : {
+      "date" : "2020/3/8",
+      "money" : 58,
+      "text" : "ขนม"
+    },
+    "-M1zcaVbIaCwUrYFEvBq" : {
+      "date" : "2020/3/9",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M1zgwfGU6ArzdwVsghc" : {
+      "date" : "2020/3/9",
+      "money" : 35,
+      "text" : "ชามะนาว"
+    },
+    "-M1zjWM27SZtyiY01s4j" : {
+      "date" : "2020/3/9",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-M1zmkgtMYih93-MsGuq" : {
+      "date" : "2020/3/9",
+      "money" : 70,
+      "text" : "ค่าน้ำมัน"
+    },
+    "-M2-PV16sKhaqA2O329n" : {
+      "date" : "2020/3/9",
+      "money" : 78,
+      "text" : "ค่าเหล้า"
+    },
+    "-M2-ctY2PF9Ilh461K_Z" : {
+      "date" : "2020/3/9",
+      "money" : 179,
+      "text" : "ซื้อสบู่"
+    },
+    "-M27HxdiGwMi2hbWqSMK" : {
+      "date" : "2020/3/11",
+      "money" : 84,
+      "text" : "ข้าวเย็น"
+    },
+    "-M27Xl8gSE7WO2gj46RJ" : {
+      "date" : "2020/3/11",
+      "money" : 10,
+      "text" : "นม"
+    },
+    "-M28OPjJItOFHUNFK3aN" : {
+      "date" : "2020/3/11",
+      "money" : 10,
+      "text" : "ไอติม"
+    },
+    "-M297KZbbmpQWo86TIab" : {
+      "date" : "2020/3/11",
+      "money" : 60,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2DKGqYXlF7tO_ehJ2g" : {
+      "date" : "2020/3/12",
+      "money" : 50,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2DOVWyDNUVZ4_YAAOv" : {
+      "date" : "2020/3/12",
+      "money" : 35,
+      "text" : "ชามะนาว"
+    },
+    "-M2HUTABxQ_F2WJ3Tq7j" : {
+      "date" : "2020/3/13",
+      "money" : 20,
+      "text" : "นม"
+    },
+    "-M2INflx2L9ZcRV9CUvL" : {
+      "date" : "2020/3/13",
+      "money" : 400,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2NZJq9luAKIsqtiDK3" : {
+      "date" : "2020/3/14",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2P-_q_T-Av7sVvOR2x" : {
+      "date" : "2020/3/14",
+      "money" : 35,
+      "text" : "ชามะนาว"
+    },
+    "-M2T34Y6_powIqQPKLN9" : {
+      "date" : "2020/3/15",
+      "money" : 75,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2T5n5TyoTMZztLjBta" : {
+      "date" : "2020/3/15",
+      "money" : 19,
+      "text" : "น้ำ"
+    },
+    "-M2X8JqgAaU1Nhgp1RaF" : {
+      "date" : "2020/3/16",
+      "money" : 1178.4,
+      "text" : "ค่าเครื่องบิน"
+    },
+    "-M2XIXCRnkCmezNjN27b" : {
+      "date" : "2020/3/16",
+      "money" : 40,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M2YbbAT-wF29HEYyCI1" : {
+      "date" : "2020/3/16",
+      "money" : 25,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2Yphgpq0uvHYKUmnjL" : {
+      "date" : "2020/3/16",
+      "money" : 20,
+      "text" : "ไส้กรอก"
+    },
+    "-M2d3igIOKBezLpBrX07" : {
+      "date" : "2020/3/17",
+      "money" : 330,
+      "text" : "ซื้อเกม"
+    },
+    "-M2dA6o_R_uLTu88VuGt" : {
+      "date" : "2020/3/17",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2dKE-hHpcF7vJto_pD" : {
+      "date" : "2020/3/17",
+      "money" : 25,
+      "text" : "ไอติม"
+    },
+    "-M2i_UrnHNTyOv1jtfnM" : {
+      "date" : "2020/3/18",
+      "money" : 30,
+      "text" : "ข้าวเช้า"
+    },
+    "-M2iaivng-jON7CqS5uQ" : {
+      "date" : "2020/3/18",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2jPdKDwN9yEVMMY2Tr" : {
+      "date" : "2020/3/18",
+      "money" : 20,
+      "text" : "ไส้กรอก"
+    },
+    "-M2lmhFy1gXIsYM5vJFx" : {
+      "date" : "2020/3/19",
+      "money" : 35,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M2mdJTfQlWAiTDgZfYT" : {
+      "date" : "2020/3/19",
+      "money" : 35,
+      "text" : "ชามะนาว"
+    },
+    "-M2mfV9lnhZk-LD_023e" : {
+      "date" : "2020/3/19",
+      "money" : 31,
+      "text" : "มาม่า"
+    },
+    "-M2mjEwHzC4_aAIyUKP9" : {
+      "date" : "2020/3/19",
+      "money" : 35,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2o-oqCc22SRQW1rLwe" : {
+      "date" : "2020/3/19",
+      "money" : 190,
+      "text" : "ซื้อเกม"
+    },
+    "-M2rsW5Naih8I64YDgsk" : {
+      "date" : "2020/3/20",
+      "money" : 65,
+      "text" : "ข้าวเย็น"
+    },
+    "-M2ru2-vV_ZTu-0paWGG" : {
+      "date" : "2020/3/20",
+      "money" : 30,
+      "text" : "น้ำ"
+    },
+    "-M2tywyGEnlyIIusWU-b" : {
+      "date" : "2020/3/20",
+      "money" : 89,
+      "text" : "มาม่าไข่ตุ๋น"
+    },
+    "-M31JRRh077K4ygvmmSb" : {
+      "date" : "2020/3/22",
+      "money" : 50,
+      "text" : "ยำมาม่า"
+    },
+    "-M31NfGWsHWPnSMG2IUS" : {
+      "date" : "2020/3/22",
+      "money" : 50,
+      "text" : "ข้าวเย็น"
+    },
+    "-M31T2EqItQgA69GbX7g" : {
+      "date" : "2020/3/22",
+      "money" : 35,
+      "text" : "ชามะนาว"
+    },
+    "-M31UeJvT_T7xpQc8GfA" : {
+      "date" : "2020/3/22",
+      "money" : 8,
+      "text" : "น้ำเต้าหู้"
+    },
+    "-M36DgoL7KfwmDqQnZ5k" : {
+      "date" : "2020/3/23",
+      "money" : 95,
+      "text" : "ข้าวเย็น"
+    },
+    "-M39pIEehavbj4FKGDez" : {
+      "date" : "2020/3/24",
+      "money" : 15,
+      "text" : "นม"
+    },
+    "-M3AbFlszQeDKWB_DhEt" : {
+      "date" : "2020/3/24",
+      "money" : 15,
+      "text" : "น้ำ"
+    },
+    "-M3Crl3hNHi45GKbTSAQ" : {
+      "date" : "2020/3/24",
+      "money" : 245,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M3Cusa1JNO8DTEV6j63" : {
+      "date" : "2020/3/24",
+      "money" : 35,
+      "text" : "ค่ารถ"
+    },
+    "-M3HZEqnozokPPwDuSrq" : {
+      "date" : "2020/3/25",
+      "money" : 75,
+      "text" : "น้ำ"
+    },
+    "-M3NVwcoRf9AoBwcv-1Z" : {
+      "date" : "2020/3/26",
+      "money" : 34,
+      "text" : "แปปซี่"
+    },
+    "-M3NVxhMi9OQDxkyu9G_" : {
+      "date" : "2020/3/26",
+      "money" : 16,
+      "text" : "น้ำแข็ง"
+    },
+    "-M3NZWdwMGLRzFBmYkoW" : {
+      "date" : "2020/3/26",
+      "money" : 255,
+      "text" : "ไก่ kfc"
+    },
+    "-M3RSA08_KGifQ_DDo_Q" : {
+      "date" : "2020/3/27",
+      "money" : 40,
+      "text" : "ข้าวเย็น"
+    },
+    "-M3XhYJnF_LEZZFnkTWz" : {
+      "date" : "2020/3/28",
+      "money" : 55,
+      "text" : "ข้าวเย็น"
+    },
+    "-M3XhYT-To88CQWvc2r3" : {
+      "date" : "2020/3/28",
+      "money" : 35,
+      "text" : "ชามะนาว"
+    },
+    "-M3Xh_mYdhmEaxml6GR0" : {
+      "date" : "2020/3/28",
+      "money" : 100.64,
+      "text" : "ค่านิยาย"
+    },
+    "-M3Xhca7vVdPYZwJ85wP" : {
+      "date" : "2020/3/28",
+      "money" : 631.3,
+      "text" : "ค่าอินเตอร์เน็ต"
+    },
+    "-M3_-7z7C0UMbkV2w-XI" : {
+      "date" : "2020/3/29",
+      "money" : 170,
+      "text" : "ข้าวเที่ยง"
+    },
+    "-M3_SKynKqJ5hj391-xP" : {
+      "date" : "2020/3/29",
+      "money" : 30,
+      "text" : "กาแฟ"
+    },
+    "-M3_SQW6k864VxaaWK71" : {
+      "date" : "2020/3/29",
+      "money" : 29,
+      "text" : "ขนม"
+    },
+    "-M3g-IgsaBXJa9jdme_Q" : {
+      "date" : "2020/3/30",
+      "money" : 30,
+      "text" : "ซักผ้า"
+    },
+    "-M3g-LJAjG05hoXaOEkf" : {
+      "date" : "2020/3/30",
+      "money" : 50,
+      "text" : "หมูผัดพริกแกง"
+    },
+    "-M3g-MJHC9rJyWFYbiXK" : {
+      "date" : "2020/3/30",
+      "money" : 35,
+      "text" : "กาแฟ"
+    },
+    "-M3j7YZktcZAW13Kt1qo" : {
+      "date" : "2020/3/31",
+      "money" : 35,
+      "text" : "กาแฟ"
+    },
+    "-M3j7YfsVWGLSJ3syN0w" : {
+      "date" : "2020/3/31",
+      "money" : 50,
+      "text" : "กระเพรา"
+    },
+    "-M3qYCMtt4Uf5anG5GVI" : {
+      "date" : "2020/4/1",
+      "money" : 35,
+      "text" : "กาแฟ"
+    },
+    "-M4-C7oAx5qxKRk9jvZe" : {
+      "date" : "2020/4/3",
+      "money" : 96,
+      "text" : "ขนม"
+    },
+    "-M4-C7wGpWJFgiTzhPkj" : {
+      "date" : "2020/4/3",
+      "money" : 79,
+      "text" : "ข้าวเย็น"
+    },
+    "-M43HcBWOAhkqlC4sd_u" : {
+      "date" : "2020/4/4",
+      "money" : 25,
+      "text" : "ข้าวเย็น"
+    },
+    "-M43Hctqv0gtaTgdrIeM" : {
+      "date" : "2020/4/4",
+      "money" : 70,
+      "text" : "กาแฟ"
+    },
+    "-M43HnDd6qe6UAbXdJ0h" : {
+      "date" : "2020/4/4",
+      "money" : 50,
+      "text" : "คะน้า"
+    },
+    "-M47cr3Y-06-5ikX0vjk" : {
+      "date" : "2020/4/5",
+      "money" : 35,
+      "text" : "กาแฟ"
+    },
+    "-M47crdazQX6TB0bs7fx" : {
+      "date" : "2020/4/5",
+      "money" : 50,
+      "text" : "กะเพรา"
+    },
+    "-M47cu2KhdKQCli9dL4Q" : {
+      "date" : "2020/4/5",
+      "money" : 14,
+      "text" : "น้ำ"
+    },
+    "-M49UnAlyLr-q0GQv0xy" : {
+      "date" : "2020/4/5",
+      "money" : 5768,
+      "text" : "ค่าห้อง"
+    },
+    "-M4m1V4K4tfk3fVuGDef" : {
+      "date" : "2020/4/13",
+      "money" : 145,
+      "text" : "ค่า Netflix"
+    },
+    "-M4m1uIgU5v1eER03OLz" : {
+      "date" : "2020/4/13",
+      "money" : 70,
+      "text" : "ค่า Spotify"
+    }
+  },
+  "income" : {
+    "-LrCoLayKz5bw_IjJbzN" : {
+      "date" : "2019/10/1",
+      "money" : 14000,
+      "text" : "พ่อให้"
+    },
+    "-LrPRsioGLaO3d-R7qCR" : {
+      "date" : "2019/10/17",
+      "money" : 625,
+      "text" : "ได้เงิน"
+    },
+    "-LrSPHvB_4TKGDOmDl3Z" : {
+      "date" : "2019/10/18",
+      "money" : 155,
+      "text" : "ได้เงิน"
+    },
+    "-LsWZhu7HUxu8hI8et65" : {
+      "date" : "2019/10/31",
+      "money" : 14000,
+      "text" : "พ่อให้"
+    },
+    "-LuhD8oer39min03de-V" : {
+      "date" : "2019/11/27",
+      "money" : 2500,
+      "text" : "ได้เงิน"
+    },
+    "-Lv6zmnMJfziYELTRffv" : {
+      "date" : "2019/12/2",
+      "money" : 14000,
+      "text" : "ได้เงิน"
+    },
+    "-LvhqdUPp5FOgVOl4vQK" : {
+      "date" : "2019/12/10",
+      "money" : 1000,
+      "text" : "ได้เงิน"
+    },
+    "-Lw1jFjfuJByLBsFjUmt" : {
+      "date" : "2019/12/14",
+      "money" : 2000,
+      "text" : "ได้เงิน"
+    },
+    "-LwGd-MJJbL5ccTVbVAj" : {
+      "date" : "2019/12/17",
+      "money" : 2000,
+      "text" : "ได้เงิน"
+    },
+    "-LwSJ24Y1cVwv83oCbTJ" : {
+      "date" : "2019/12/19",
+      "money" : 50,
+      "text" : "เติมเงินโทรศัพท์"
+    },
+    "-Lxw9PBmZDhC2a5gyjCh" : {
+      "date" : "2020/1/6",
+      "money" : 12887.47,
+      "text" : "ได้เงิน"
+    },
+    "-M--37PBQ-udMMbOqXDx" : {
+      "date" : "2020/2/1",
+      "money" : 14000,
+      "text" : "ได้เงิน"
+    },
+    "-M0hVHeGSup9k9DfRaGo" : {
+      "date" : "2020/2/22",
+      "money" : 9.99,
+      "text" : "ได้เงิน"
+    },
+    "-M1MrOTMmHAkYzAW1K_h" : {
+      "date" : "2020/3/1",
+      "money" : 14000,
+      "text" : "ได้เงิน"
+    },
+    "-M2sTMnJMXjWiPQ6CLET" : {
+      "date" : "2020/3/20",
+      "money" : 3000,
+      "text" : "ได้เงิน"
+    }
+  }
+}
