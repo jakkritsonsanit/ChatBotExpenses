@@ -4,3 +4,8 @@ requests
 line-bot-sdk
 pandas==0.20.3
 googletrans
+joblib
+numpy
+re
+firebase_admin
+pythainlp

@@ -8,9 +8,9 @@ import firebase_admin
 
 from firebase_admin import credentials
 from firebase_admin import db
-from pythainlp.tokenize import dict_trie, word_tokenize
-from sklearn.pipeline import Pipeline
+from pythainlp.tokenize import word_tokenize
 from sklearn.feature_extraction.text import TfidfTransformer
+
 
 def main(chat_text):
     model = joblib.load('asset/text_clf.sav')
@@ -37,12 +37,13 @@ def main(chat_text):
     # create date
     d = datetime.datetime.today().strftime("%Y/%m/%d")
     # create data to push
-    data = {"Date":d, "money":money, "text":t, 'type':label}
+    data = {"Date": d, "money": money, "text": t, 'type': label}
     ref.push(data)
 
     return
-    
-def get_BOW(text, corpus, trie, tfidf = True):
+
+
+def get_BOW(text, corpus, trie, tfidf=True):
     BOW = [list() for i in range(len(text))]
     l = 0
     count = 1
@@ -63,15 +64,16 @@ def get_BOW(text, corpus, trie, tfidf = True):
         elif len(tmp) == 0:
             BOW[l].append(0)
         l += 1
-        
+
     BOW = np.array(BOW)
-    
+
     if tfidf:
         tfidf_transformer = TfidfTransformer()
         return tfidf_transformer.fit_transform(BOW)
     else:
         return BOW
-    
+
+
 def labeling(code):
     if code == 0:
         return 'Income'

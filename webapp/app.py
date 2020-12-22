@@ -7,9 +7,6 @@ import json
 import numpy as np
 import sys
 
-sys.path.insert(1, 'src/')
-import function
-
 from linebot.models import (
     MessageEvent, TextMessage, TextSendMessage, TemplateSendMessage, ImageSendMessage, StickerSendMessage,
     AudioSendMessage
@@ -18,6 +15,9 @@ from linebot.models.template import *
 from linebot import (
     LineBotApi, WebhookHandler
 )
+
+sys.path.insert(1, '../src/')
+import function
 
 app = Flask(__name__)
 
