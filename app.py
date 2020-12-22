@@ -79,9 +79,10 @@ def event_handle(event):
             line_bot_api.reply_message(rtoken, replyObj)
     except:
         print('error cannot reply msg')
-        replyObj = StickerSendMessage(package_id=str(11537), sticker_id=str(52002755))
-        line_bot_api.reply_message(rtoken, replyObj)
-        line_bot_api.reply_message(rtoken, replyObj)
+        replyObj_sk = StickerSendMessage(package_id=str(11537), sticker_id=str(52002755))
+        line_bot_api.reply_message(rtoken, replyObj_sk)
+        replyObj_txt = TextSendMessage(text='ระบบขัดข้อง')
+        line_bot_api.reply_message(rtoken, replyObj_txt)
 
     return ''
 
